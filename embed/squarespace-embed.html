@@ -1,0 +1,444 @@
+<!--
+  CBC Calendar — Squarespace embed (CDN-fed)
+  ───────────────────────────────────────────
+  Data source: https://cdn.jsdelivr.net/gh/TD3-Ready/CBC-Socials@main/data/events.json
+  This file pulls from jsDelivr (free CDN over our GitHub repo).
+  No API key in the browser. Updated every 15 min by the sync workflow.
+
+  Deploy: copy EVERYTHING below and paste into ONE Squarespace Code Block
+  on the Calendar page. Requires Squarespace Business plan or higher.
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --ink:#1B1A17; --ink-2:#5B5A55; --ink-3:#9C9A91;
+  --paper:#FAF8F2; --paper-2:#F3F1E9; --card:#FFFFFF;
+  --line:#E8E4D8; --line-2:#D7D2C2;
+  --gold:#B8935C; --gold-ink:#8C6A3A; --gold-soft:rgba(184,147,92,.10);
+  --cat-worship:#4A6FA5; --cat-study:#8B7355; --cat-outreach:#6B8E6B;
+  --cat-youth:#C2774A; --cat-music:#8B7AA8; --cat-other:#6B6B6B;
+  --r-sm:6px; --r-lg:18px; --r-xl:28px;
+  --shadow-1:0 1px 2px rgba(20,18,12,.04),0 2px 6px rgba(20,18,12,.04);
+  --shadow-2:0 4px 12px rgba(20,18,12,.06),0 16px 40px rgba(20,18,12,.08);
+  --display:'Fraunces','Charter',Georgia,serif;
+  --sans:'Inter',-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',system-ui,sans-serif;
+  --t:220ms cubic-bezier(.2,.7,.2,1);
+}
+.cbc-cal * { box-sizing: border-box; }
+.cbc-cal { font-family: var(--sans); color: var(--ink); font-size: 16px; line-height: 1.5; -webkit-font-smoothing: antialiased; }
+.cbc-cal .hero { padding: 56px 0 40px; border-bottom: 1px solid var(--line); }
+.cbc-cal .eyebrow { font-size: 12px; text-transform: uppercase; letter-spacing: .16em; color: var(--gold-ink); margin: 0 0 18px; font-weight: 500; }
+.cbc-cal .hero-title { font-family: var(--display); font-weight: 500; font-size: clamp(34px,5.4vw,60px); line-height: 1.05; letter-spacing: -.022em; margin: 0 0 18px; max-width: 18ch; }
+.cbc-cal .hero-meta { font-size: 17px; color: var(--ink-2); margin: 0 0 28px; }
+.cbc-cal .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+.cbc-cal .btn { display: inline-flex; align-items: center; justify-content: center; padding: 11px 18px; font-family: var(--sans); font-size: 14px; font-weight: 500; border-radius: 999px; border: 1px solid transparent; cursor: pointer; transition: background var(--t),color var(--t),border-color var(--t),transform var(--t); white-space: nowrap; text-decoration: none; }
+.cbc-cal .btn:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.cbc-cal .btn:active { transform: translateY(1px); }
+.cbc-cal .btn-primary { background: var(--ink); color: var(--paper); }
+.cbc-cal .btn-primary:hover { background: #2E2C26; }
+.cbc-cal .btn-ghost { background: transparent; color: var(--ink); border-color: var(--line-2); }
+.cbc-cal .btn-ghost:hover { background: var(--paper-2); }
+.cbc-cal .btn-sm { padding: 7px 14px; font-size: 13px; }
+.cbc-cal .iconbtn { width: 36px; height: 36px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; border: 1px solid var(--line-2); background: transparent; color: var(--ink); cursor: pointer; }
+.cbc-cal .iconbtn:hover { background: var(--paper-2); }
+.cbc-cal .filter-bar { display: flex; flex-wrap: wrap; gap: 8px; padding: 24px 0 8px; }
+.cbc-cal .chip { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border-radius: 999px; background: transparent; border: 1px solid var(--line); color: var(--ink-2); font-size: 13px; font-weight: 500; cursor: pointer; }
+.cbc-cal .chip:hover { color: var(--ink); border-color: var(--line-2); }
+.cbc-cal .chip.is-active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.cbc-cal .chip .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--cat-other); }
+.cbc-cal .chip .dot[data-cat="worship"]  { background: var(--cat-worship); }
+.cbc-cal .chip .dot[data-cat="study"]    { background: var(--cat-study); }
+.cbc-cal .chip .dot[data-cat="outreach"] { background: var(--cat-outreach); }
+.cbc-cal .chip .dot[data-cat="youth"]    { background: var(--cat-youth); }
+.cbc-cal .chip .dot[data-cat="music"]    { background: var(--cat-music); }
+.cbc-cal .chip .dot[data-cat="other"]    { background: var(--cat-other); }
+.cbc-cal .calendar-shell { display: grid; grid-template-columns: minmax(0,1fr) 320px; gap: 32px; padding: 24px 0 32px; }
+.cbc-cal .calendar-main { background: var(--card); border: 1px solid var(--line); border-radius: var(--r-lg); box-shadow: var(--shadow-1); overflow: hidden; }
+.cbc-cal .month-header { display: flex; align-items: center; gap: 12px; padding: 18px 20px; border-bottom: 1px solid var(--line); }
+.cbc-cal .month-title { flex: 1; margin: 0; font-family: var(--display); font-weight: 500; font-size: 22px; letter-spacing: -.01em; }
+.cbc-cal .weekday-header { display: grid; grid-template-columns: repeat(7,1fr); border-bottom: 1px solid var(--line); background: var(--paper-2); }
+.cbc-cal .weekday-header span { padding: 10px 12px; font-size: 11px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-2); }
+.cbc-cal .month-grid { display: grid; grid-template-columns: repeat(7,1fr); grid-auto-rows: minmax(124px,1fr); }
+.cbc-cal .day { position: relative; padding: 8px 8px 6px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: var(--card); cursor: pointer; min-height: 0; display: flex; flex-direction: column; gap: 4px; }
+.cbc-cal .day:nth-child(7n) { border-right: none; }
+.cbc-cal .day:hover { background: var(--paper-2); }
+.cbc-cal .day.is-out { background: var(--paper-2); }
+.cbc-cal .day.is-out .day-num { color: var(--ink-3); }
+.cbc-cal .day.is-today .day-num { background: var(--ink); color: var(--paper); }
+.cbc-cal .day-num { display: inline-flex; align-items: center; justify-content: center; min-width: 26px; height: 26px; font-size: 13px; font-weight: 500; border-radius: 50%; padding: 0 6px; align-self: flex-start; color: var(--ink); }
+.cbc-cal .event-list { display: flex; flex-direction: column; gap: 2px; min-height: 0; }
+.cbc-cal .event-pill { display: flex; align-items: center; gap: 6px; padding: 3px 8px; border-radius: var(--r-sm); font-size: 11.5px; font-weight: 500; color: var(--ink); background: var(--paper-2); border: none; text-align: left; cursor: pointer; width: 100%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cbc-cal .event-pill:hover { background: var(--gold-soft); }
+.cbc-cal .event-pill .pip { flex: none; width: 6px; height: 6px; border-radius: 50%; background: var(--cat-other); }
+.cbc-cal .event-pill[data-cat="worship"]  .pip { background: var(--cat-worship); }
+.cbc-cal .event-pill[data-cat="study"]    .pip { background: var(--cat-study); }
+.cbc-cal .event-pill[data-cat="outreach"] .pip { background: var(--cat-outreach); }
+.cbc-cal .event-pill[data-cat="youth"]    .pip { background: var(--cat-youth); }
+.cbc-cal .event-pill[data-cat="music"]    .pip { background: var(--cat-music); }
+.cbc-cal .event-pill[data-cat="other"]    .pip { background: var(--cat-other); }
+.cbc-cal .event-pill .pill-title { overflow: hidden; text-overflow: ellipsis; }
+.cbc-cal .event-pill .pill-time { color: var(--ink-2); font-variant-numeric: tabular-nums; font-weight: 400; }
+.cbc-cal .more-link { display: inline-flex; padding: 2px 8px; font-size: 11px; color: var(--ink-2); background: transparent; border: none; cursor: pointer; align-self: flex-start; }
+.cbc-cal .more-link:hover { color: var(--gold-ink); }
+.cbc-cal .agenda { background: var(--card); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 22px 22px 16px; box-shadow: var(--shadow-1); align-self: start; position: sticky; top: 88px; }
+.cbc-cal .agenda-title { margin: 0 0 16px; font-family: var(--display); font-weight: 500; font-size: 18px; letter-spacing: -.005em; }
+.cbc-cal .agenda-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.cbc-cal .agenda-item { display: grid; grid-template-columns: 56px 1fr; gap: 14px; padding: 14px 8px; border-top: 1px solid var(--line); cursor: pointer; border-radius: 8px; margin: 0 -8px; }
+.cbc-cal .agenda-item:first-child { border-top: none; }
+.cbc-cal .agenda-item:hover { background: var(--paper-2); }
+.cbc-cal .agenda-date { text-align: center; border-right: 1px solid var(--line); padding-right: 14px; }
+.cbc-cal .agenda-date .mo { font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-ink); font-weight: 600; }
+.cbc-cal .agenda-date .d { font-family: var(--display); font-weight: 500; font-size: 26px; line-height: 1; margin-top: 2px; color: var(--ink); }
+.cbc-cal .agenda-body { min-width: 0; }
+.cbc-cal .agenda-cat { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-2); margin-bottom: 4px; }
+.cbc-cal .agenda-cat .pip { width: 6px; height: 6px; border-radius: 50%; background: var(--cat-other); }
+.cbc-cal .agenda-cat[data-cat="worship"]  .pip { background: var(--cat-worship); }
+.cbc-cal .agenda-cat[data-cat="study"]    .pip { background: var(--cat-study); }
+.cbc-cal .agenda-cat[data-cat="outreach"] .pip { background: var(--cat-outreach); }
+.cbc-cal .agenda-cat[data-cat="youth"]    .pip { background: var(--cat-youth); }
+.cbc-cal .agenda-cat[data-cat="music"]    .pip { background: var(--cat-music); }
+.cbc-cal .agenda-cat[data-cat="other"]    .pip { background: var(--cat-other); }
+.cbc-cal .agenda-title-line { font-size: 15px; font-weight: 500; color: var(--ink); margin: 0 0 2px; line-height: 1.3; }
+.cbc-cal .agenda-time { font-size: 13px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.cbc-cal-modal-backdrop { position: fixed; inset: 0; background: rgba(20,18,12,.32); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); display: flex; align-items: center; justify-content: center; padding: 24px; z-index: 9999; }
+.cbc-cal-modal-backdrop[hidden] { display: none; }
+.cbc-cal-modal-backdrop .modal { position: relative; background: var(--card); border-radius: var(--r-xl); padding: 36px 36px 28px; max-width: 520px; width: 100%; box-shadow: var(--shadow-2); font-family: var(--sans); color: var(--ink); }
+.cbc-cal-modal-backdrop .modal-close { position: absolute; top: 16px; right: 16px; background: transparent; border: none; color: var(--ink-2); cursor: pointer; padding: 6px; border-radius: 50%; }
+.cbc-cal-modal-backdrop .modal-close:hover { background: var(--paper-2); color: var(--ink); }
+.cbc-cal-modal-backdrop .modal-eyebrow { display: inline-flex; align-items: center; gap: 8px; font-size: 11px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-2); margin: 0 0 10px; }
+.cbc-cal-modal-backdrop .modal-eyebrow .pip { width: 7px; height: 7px; border-radius: 50%; background: var(--cat-other); }
+.cbc-cal-modal-backdrop .modal-title { font-family: var(--display); font-weight: 500; font-size: 30px; letter-spacing: -.015em; margin: 0 0 18px; line-height: 1.15; }
+.cbc-cal-modal-backdrop .modal-meta { margin: 0 0 18px; display: flex; flex-direction: column; gap: 8px; }
+.cbc-cal-modal-backdrop .modal-meta > div { display: grid; grid-template-columns: 64px 1fr; gap: 8px; font-size: 14px; }
+.cbc-cal-modal-backdrop .modal-meta dt { color: var(--ink-3); font-size: 11px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; padding-top: 2px; }
+.cbc-cal-modal-backdrop .modal-meta dd { margin: 0; color: var(--ink); }
+.cbc-cal-modal-backdrop .modal-desc { color: var(--ink-2); font-size: 15px; line-height: 1.55; margin: 0 0 24px; white-space: pre-line; }
+.cbc-cal-modal-backdrop .modal-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+@media (max-width: 960px) {
+  .cbc-cal .calendar-shell { grid-template-columns: 1fr; }
+  .cbc-cal .agenda { position: static; }
+}
+@media (max-width: 720px) {
+  .cbc-cal .hero { padding: 36px 0 28px; }
+  .cbc-cal .month-grid { grid-auto-rows: minmax(80px,1fr); }
+  .cbc-cal .day { padding: 6px 4px 4px; }
+  .cbc-cal .event-pill .pill-time { display: none; }
+  .cbc-cal .event-pill .pill-title { font-size: 10.5px; }
+  .cbc-cal .weekday-header span { padding: 8px 6px; font-size: 10px; }
+}
+</style>
+
+<div class="cbc-cal" id="cbc-cal-root">
+  <section class="hero">
+    <p class="eyebrow">Next gathering</p>
+    <h1 class="hero-title" id="cbc-hero-title">Loading the calendar…</h1>
+    <p class="hero-meta" id="cbc-hero-meta">&nbsp;</p>
+    <div class="hero-actions">
+      <button class="btn btn-primary" id="cbc-hero-cta" type="button" hidden>Add to my calendar</button>
+      <button class="btn btn-ghost" id="cbc-hero-details" type="button" hidden>Event details</button>
+    </div>
+  </section>
+
+  <section class="filter-bar">
+    <button class="chip is-active" type="button" data-filter="all">All</button>
+    <button class="chip" type="button" data-filter="worship"><span class="dot" data-cat="worship"></span> Worship</button>
+    <button class="chip" type="button" data-filter="study"><span class="dot" data-cat="study"></span> Studies</button>
+    <button class="chip" type="button" data-filter="music"><span class="dot" data-cat="music"></span> Music</button>
+    <button class="chip" type="button" data-filter="youth"><span class="dot" data-cat="youth"></span> Youth &amp; Kids</button>
+    <button class="chip" type="button" data-filter="outreach"><span class="dot" data-cat="outreach"></span> Outreach</button>
+    <button class="chip" type="button" data-filter="other"><span class="dot" data-cat="other"></span> Other</button>
+  </section>
+
+  <section class="calendar-shell">
+    <div class="calendar-main">
+      <div class="month-header">
+        <button class="iconbtn" id="cbc-prev-month" type="button" aria-label="Previous month">‹</button>
+        <h2 class="month-title" id="cbc-month-title">Loading…</h2>
+        <button class="iconbtn" id="cbc-next-month" type="button" aria-label="Next month">›</button>
+        <button class="btn btn-ghost btn-sm" id="cbc-today-btn" type="button">Today</button>
+      </div>
+      <div class="weekday-header">
+        <span>Sun</span><span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span>
+      </div>
+      <div class="month-grid" id="cbc-month-grid"></div>
+    </div>
+    <aside class="agenda">
+      <h3 class="agenda-title">Upcoming</h3>
+      <ol class="agenda-list" id="cbc-agenda-list"></ol>
+    </aside>
+  </section>
+</div>
+
+<div class="cbc-cal-modal-backdrop" id="cbc-modal-backdrop" hidden>
+  <div class="modal" role="dialog" aria-modal="true" tabindex="-1">
+    <button class="modal-close" id="cbc-modal-close" type="button" aria-label="Close">×</button>
+    <p class="modal-eyebrow" id="cbc-modal-eyebrow"><span class="pip"></span></p>
+    <h2 class="modal-title" id="cbc-modal-title"></h2>
+    <dl class="modal-meta">
+      <div><dt>When</dt><dd id="cbc-modal-when"></dd></div>
+      <div><dt>Where</dt><dd id="cbc-modal-where"></dd></div>
+    </dl>
+    <p class="modal-desc" id="cbc-modal-desc"></p>
+    <div class="modal-actions">
+      <button class="btn btn-primary" id="cbc-modal-add" type="button">Add to my calendar</button>
+      <a class="btn btn-ghost" id="cbc-modal-gcal" target="_blank" rel="noopener">Open in Google Calendar</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  if (window.__cbcCalLoaded) return;
+  window.__cbcCalLoaded = true;
+
+  var DATA_URL = 'https://cdn.jsdelivr.net/gh/TD3-Ready/CBC-Socials@main/data/events.json';
+
+  var CATEGORIES = {
+    worship:  { label: 'Worship' },
+    study:    { label: 'Studies' },
+    music:    { label: 'Music' },
+    youth:    { label: 'Youth & Kids' },
+    outreach: { label: 'Outreach' },
+    other:    { label: 'Other' }
+  };
+
+  var STATE = { view: new Date(), events: [], filter: 'all' };
+  STATE.view = new Date(STATE.view.getFullYear(), STATE.view.getMonth(), 1);
+
+  function $(s) { return document.querySelector(s); }
+  function sameDay(a, b) { return a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth() && a.getDate() === b.getDate(); }
+  function fmtTime(d) { return d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' }).replace(' ', '').toLowerCase(); }
+  function fmtDay(d) { return d.toLocaleDateString('en-US', { weekday: 'short' }); }
+  function fmtMonth(d) { return d.toLocaleDateString('en-US', { month: 'short' }); }
+  function fmtFullDate(d) { return d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }); }
+  function fmtMonthYear(d) { return d.toLocaleDateString('en-US', { month: 'long', year: 'numeric' }); }
+  function escapeHTML(s) { return String(s).replace(/[&<>"']/g, function (c) { return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]); }); }
+  function stripHTML(s) { var div = document.createElement('div'); div.innerHTML = s || ''; return div.textContent || ''; }
+  function slugify(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60); }
+
+  function loadData() {
+    return fetch(DATA_URL + '?t=' + Date.now()).then(function (r) {
+      if (!r.ok) throw new Error('Data fetch failed: ' + r.status);
+      return r.json();
+    }).then(function (payload) {
+      return (payload.events || []).map(function (e) {
+        return {
+          id: e.id, title: e.title, category: e.category || 'other',
+          start: new Date(e.start), end: new Date(e.end),
+          location: e.location || '', description: e.description || '',
+          htmlLink: e.htmlLink || ''
+        };
+      });
+    });
+  }
+
+  function eventsForRange(start, end) {
+    return STATE.events
+      .filter(function (e) { return e.end >= start && e.start <= end; })
+      .filter(function (e) { return STATE.filter === 'all' || e.category === STATE.filter; })
+      .sort(function (a, b) { return a.start - b.start; });
+  }
+
+  function renderMonth() {
+    $('#cbc-month-title').textContent = fmtMonthYear(STATE.view);
+    var grid = $('#cbc-month-grid');
+    grid.innerHTML = '';
+    var year = STATE.view.getFullYear();
+    var month = STATE.view.getMonth();
+    var firstOfMonth = new Date(year, month, 1);
+    var startWeekday = firstOfMonth.getDay();
+    var gridStart = new Date(year, month, 1 - startWeekday);
+    var today = new Date();
+
+    for (var i = 0; i < 42; i++) {
+      var day = new Date(gridStart);
+      day.setDate(gridStart.getDate() + i);
+      var isOutside = day.getMonth() !== month;
+      var isToday = sameDay(day, today);
+      var cell = document.createElement('div');
+      cell.className = 'day' + (isOutside ? ' is-out' : '') + (isToday ? ' is-today' : '');
+      var num = document.createElement('span');
+      num.className = 'day-num';
+      num.textContent = day.getDate();
+      cell.appendChild(num);
+
+      var dayStart = new Date(day); dayStart.setHours(0,0,0,0);
+      var dayEnd = new Date(day); dayEnd.setHours(23,59,59,999);
+      var dayEvents = eventsForRange(dayStart, dayEnd);
+
+      var list = document.createElement('div');
+      list.className = 'event-list';
+      dayEvents.slice(0, 3).forEach(function (ev) { list.appendChild(eventPill(ev)); });
+      if (dayEvents.length > 3) {
+        var more = document.createElement('button');
+        more.className = 'more-link'; more.type = 'button';
+        more.textContent = '+' + (dayEvents.length - 3) + ' more';
+        (function (d, evs) {
+          more.addEventListener('click', function (e) { e.stopPropagation(); openDayList(d, evs); });
+        })(day, dayEvents);
+        list.appendChild(more);
+      }
+      cell.appendChild(list);
+      (function (evs, d) {
+        cell.addEventListener('click', function () {
+          if (evs.length === 1) openModal(evs[0]);
+          else if (evs.length > 1) openDayList(d, evs);
+        });
+      })(dayEvents, day);
+      grid.appendChild(cell);
+    }
+  }
+
+  function eventPill(ev) {
+    var btn = document.createElement('button');
+    btn.className = 'event-pill'; btn.type = 'button';
+    btn.dataset.cat = ev.category;
+    btn.innerHTML = '<span class="pip"></span><span class="pill-time">' + fmtTime(ev.start) + '</span><span class="pill-title">' + escapeHTML(ev.title) + '</span>';
+    btn.addEventListener('click', function (e) { e.stopPropagation(); openModal(ev); });
+    return btn;
+  }
+
+  function renderAgenda() {
+    var list = $('#cbc-agenda-list');
+    list.innerHTML = '';
+    var now = new Date(); now.setHours(0,0,0,0);
+    var horizon = new Date(now); horizon.setDate(now.getDate() + 60);
+    var upcoming = eventsForRange(now, horizon).slice(0, 8);
+    if (!upcoming.length) {
+      list.innerHTML = '<li class="agenda-item" style="cursor:default"><div></div><div class="agenda-body"><p class="agenda-title-line">No events in this filter.</p></div></li>';
+      return;
+    }
+    upcoming.forEach(function (ev) {
+      var li = document.createElement('li');
+      li.className = 'agenda-item';
+      li.innerHTML = '<div class="agenda-date"><div class="mo">' + fmtMonth(ev.start) + '</div><div class="d">' + ev.start.getDate() + '</div></div>' +
+        '<div class="agenda-body"><div class="agenda-cat" data-cat="' + ev.category + '"><span class="pip"></span>' + CATEGORIES[ev.category].label + '</div>' +
+        '<p class="agenda-title-line">' + escapeHTML(ev.title) + '</p>' +
+        '<div class="agenda-time">' + fmtDay(ev.start) + ' · ' + fmtTime(ev.start) + ' – ' + fmtTime(ev.end) + (ev.location ? ' · ' + escapeHTML(ev.location) : '') + '</div></div>';
+      li.addEventListener('click', function () { openModal(ev); });
+      list.appendChild(li);
+    });
+  }
+
+  function renderHero() {
+    var now = new Date();
+    var next = STATE.events.filter(function (e) { return e.end >= now; }).sort(function (a, b) { return a.start - b.start; })[0];
+    var title = $('#cbc-hero-title');
+    var meta = $('#cbc-hero-meta');
+    var cta = $('#cbc-hero-cta');
+    var det = $('#cbc-hero-details');
+    if (!next) {
+      title.textContent = 'No upcoming events';
+      meta.textContent = 'Check back soon — new dates are added each week.';
+      cta.hidden = true; det.hidden = true;
+      return;
+    }
+    title.textContent = next.title;
+    meta.textContent = fmtFullDate(next.start) + ' · ' + fmtTime(next.start) + ' – ' + fmtTime(next.end) + (next.location ? ' · ' + next.location : '');
+    cta.hidden = false; det.hidden = false;
+    cta.onclick = function () { downloadICS(next); };
+    det.onclick = function () { openModal(next); };
+  }
+
+  function openModal(ev) {
+    var m = $('#cbc-modal-backdrop');
+    $('#cbc-modal-title').textContent = ev.title;
+    var eyebrow = $('#cbc-modal-eyebrow');
+    eyebrow.innerHTML = '<span class="pip"></span>' + (CATEGORIES[ev.category] || CATEGORIES.other).label;
+    eyebrow.querySelector('.pip').style.background = 'var(--cat-' + ev.category + ')';
+    $('#cbc-modal-when').textContent = fmtFullDate(ev.start) + ' · ' + fmtTime(ev.start) + ' – ' + fmtTime(ev.end);
+    $('#cbc-modal-where').textContent = ev.location || '—';
+    $('#cbc-modal-desc').textContent = stripHTML(ev.description || '');
+    $('#cbc-modal-add').onclick = function () { downloadICS(ev); };
+    var gcal = $('#cbc-modal-gcal');
+    if (ev.htmlLink) { gcal.href = ev.htmlLink; gcal.textContent = 'Open in Google Calendar'; }
+    else { gcal.href = buildGoogleCalAddURL(ev); gcal.textContent = 'Add via Google Calendar'; }
+    m.hidden = false;
+    document.body.style.overflow = 'hidden';
+  }
+  function closeModal() { $('#cbc-modal-backdrop').hidden = true; document.body.style.overflow = ''; }
+
+  function openDayList(day, events) {
+    openModal({
+      id: 'day-' + day.toISOString(),
+      title: events.length + ' events on ' + fmtFullDate(day),
+      description: events.map(function (e) { return '• ' + fmtTime(e.start) + ' — ' + e.title + (e.location ? ' (' + e.location + ')' : ''); }).join('\n'),
+      category: 'other', location: '', htmlLink: '',
+      start: day, end: events[events.length - 1].end
+    });
+  }
+
+  function pad(n) { return String(n).padStart(2, '0'); }
+  function toICSDate(d) { return d.getUTCFullYear() + pad(d.getUTCMonth()+1) + pad(d.getUTCDate()) + 'T' + pad(d.getUTCHours()) + pad(d.getUTCMinutes()) + '00Z'; }
+  function escapeICS(s) { return (s || '').replace(/\\/g,'\\\\').replace(/\n/g,'\\n').replace(/,/g,'\\,').replace(/;/g,'\\;'); }
+
+  function downloadICS(ev) {
+    var ics = [
+      'BEGIN:VCALENDAR','VERSION:2.0',
+      'PRODID:-//CBC//Calendar//EN','CALSCALE:GREGORIAN',
+      'BEGIN:VEVENT',
+      'UID:' + ev.id + '@' + (location.host || 'cbc'),
+      'DTSTAMP:' + toICSDate(new Date()),
+      'DTSTART:' + toICSDate(ev.start),
+      'DTEND:' + toICSDate(ev.end),
+      'SUMMARY:' + escapeICS(ev.title),
+      'DESCRIPTION:' + escapeICS(stripHTML(ev.description || '')),
+      'LOCATION:' + escapeICS(ev.location || ''),
+      'END:VEVENT','END:VCALENDAR'
+    ].join('\r\n');
+    var blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement('a');
+    a.href = url; a.download = slugify(ev.title) + '.ics';
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function buildGoogleCalAddURL(ev) {
+    var fmt = function (d) { return d.getUTCFullYear() + pad(d.getUTCMonth()+1) + pad(d.getUTCDate()) + 'T' + pad(d.getUTCHours()) + pad(d.getUTCMinutes()) + '00Z'; };
+    var p = new URLSearchParams({
+      action: 'TEMPLATE', text: ev.title,
+      dates: fmt(ev.start) + '/' + fmt(ev.end),
+      details: stripHTML(ev.description || ''), location: ev.location || ''
+    });
+    return 'https://www.google.com/calendar/render?' + p.toString();
+  }
+
+  function init() {
+    if (!document.getElementById('cbc-cal-root')) return;
+
+    loadData().then(function (events) {
+      STATE.events = events;
+      renderHero(); renderMonth(); renderAgenda();
+    }).catch(function (err) {
+      console.error('CBC calendar load failed:', err);
+      $('#cbc-hero-title').textContent = 'Calendar unavailable';
+      $('#cbc-hero-meta').textContent = 'We couldn\'t load the calendar. Please refresh in a minute.';
+    });
+
+    $('#cbc-prev-month').addEventListener('click', function () { STATE.view = new Date(STATE.view.getFullYear(), STATE.view.getMonth() - 1, 1); renderMonth(); });
+    $('#cbc-next-month').addEventListener('click', function () { STATE.view = new Date(STATE.view.getFullYear(), STATE.view.getMonth() + 1, 1); renderMonth(); });
+    $('#cbc-today-btn').addEventListener('click', function () { var t = new Date(); STATE.view = new Date(t.getFullYear(), t.getMonth(), 1); renderMonth(); });
+
+    document.querySelectorAll('#cbc-cal-root .chip').forEach(function (c) {
+      c.addEventListener('click', function () {
+        document.querySelectorAll('#cbc-cal-root .chip').forEach(function (x) { x.classList.remove('is-active'); });
+        c.classList.add('is-active');
+        STATE.filter = c.dataset.filter;
+        renderMonth(); renderAgenda();
+      });
+    });
+
+    $('#cbc-modal-close').addEventListener('click', closeModal);
+    $('#cbc-modal-backdrop').addEventListener('click', function (e) { if (e.target === e.currentTarget) closeModal(); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeModal(); });
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+  else init();
+})();
+</script>
