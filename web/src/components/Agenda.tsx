@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import { useMemo } from "react";
 import type { CalEvent, Category } from "../lib/types";
 import { CATEGORY_LABEL } from "../lib/types";
@@ -99,54 +99,98 @@ export function Agenda({ events, filter, onOpen }: Props) {
         />
       </div>
 
-      {!upcoming.length ? (
-        <p className="text-[14px] text-ink-2">
-          {filter === "all"
-            ? "No events in the next 30 days."
-            : `No ${CATEGORY_LABEL[filter as Category].toLowerCase()} events in the next ${horizonDays} days.`}
-        </p>
-      ) : (
-        <motion.ol
-          key={`list-${filter}`}
-          variants={agendaContainer}
-          initial="hidden"
-          animate="show"
-          className="list-none m-0 p-0 flex flex-col"
-        >
-          {upcoming.map((ev) => (
-            <motion.li
-              key={ev.id}
-              variants={agendaItemVariants}
-              onClick={() => onOpen(ev.id)}
-              whileHover={{ x: 2 }}
-              className="grid grid-cols-[52px_1fr] md:grid-cols-[56px_1fr] gap-3 md:gap-[14px] py-[14px] px-2 -mx-2 border-t border-line first:border-t-0 cursor-pointer rounded-lg hover:bg-paper-2 transition-colors"
+      {/* Ferris-wheel container — perspective makes the 3D rotation feel deep */}
+      <div
+        className="relative"
+        style={{ perspective: 1400, perspectiveOrigin: "center 30%" }}
+      >
+        <AnimatePresence mode="wait">
+          {!upcoming.length ? (
+            <motion.p
+              key={`empty-${filter}`}
+              initial={{ opacity: 0, rotateX: 60, scale: 0.85, z: -180 }}
+              animate={{ opacity: 1, rotateX: 0, scale: 1, z: 0 }}
+              exit={{ opacity: 0, rotateX: -60, scale: 0.85, z: -180 }}
+              transition={{ duration: 0.45, ease: [0.2, 0.7, 0.2, 1] }}
+              style={{ transformStyle: "preserve-3d", transformOrigin: "center" }}
+              className="text-[14px] text-ink-2"
             >
-              <div className="text-center border-r border-line pr-3 md:pr-[14px]">
-                <div className="text-[11px] tracking-[0.12em] uppercase text-gold-ink font-semibold">
-                  {fmtMonth(ev.start)}
-                </div>
-                <div className="font-display font-medium text-[24px] md:text-[26px] leading-none mt-0.5">
-                  {ev.start.getDate()}
-                </div>
-              </div>
-              <div className="min-w-0">
-                <div className="inline-flex items-center gap-1.5 text-[10.5px] md:text-[11px] font-semibold tracking-[0.08em] uppercase text-ink-2 mb-1">
-                  <span className={`w-[6px] h-[6px] rounded-full ${CAT_DOT[ev.category]}`} />
-                  {CATEGORY_LABEL[ev.category]}
-                </div>
-                <p className="text-[15px] font-medium m-0 leading-[1.3]">{ev.title}</p>
-                <div className="text-[12.5px] md:text-[13px] text-ink-2 tabular">
-                  {fmtDay(ev.start)}{" "}
-                  {isAllDay(ev.start, ev.end)
-                    ? "· all day"
-                    : `· ${fmtTime(ev.start)} – ${fmtTime(ev.end)}`}
-                  {ev.location ? ` · ${ev.location}` : ""}
-                </div>
-              </div>
-            </motion.li>
-          ))}
-        </motion.ol>
-      )}
+              {filter === "all"
+                ? "No events in the next 30 days."
+                : `No ${CATEGORY_LABEL[filter as Category].toLowerCase()} events in the next ${horizonDays} days.`}
+            </motion.p>
+          ) : (
+            <motion.ol
+              key={`list-${filter}`}
+              initial={{ opacity: 0, rotateX: 65, scale: 0.85, z: -200, y: 40 }}
+              animate={{
+                opacity: 1,
+                rotateX: 0,
+                scale: 1,
+                z: 0,
+                y: 0,
+                transition: {
+                  duration: 0.55,
+                  ease: [0.2, 0.7, 0.2, 1],
+                  delay: 0.05,
+                  when: "beforeChildren",
+                  staggerChildren: 0.045,
+                  delayChildren: 0.12,
+                },
+              }}
+              exit={{
+                opacity: 0,
+                rotateX: -65,
+                scale: 0.85,
+                z: -200,
+                y: -40,
+                transition: { duration: 0.4, ease: [0.4, 0, 0.6, 1] },
+              }}
+              style={{
+                transformStyle: "preserve-3d",
+                transformOrigin: "center 80%",
+              }}
+              className="list-none m-0 p-0 flex flex-col"
+            >
+              {upcoming.map((ev) => (
+                <motion.li
+                  key={ev.id}
+                  variants={agendaItemVariants}
+                  onClick={() => onOpen(ev.id)}
+                  whileHover={{ x: 2 }}
+                  className="grid grid-cols-[52px_1fr] md:grid-cols-[56px_1fr] gap-3 md:gap-[14px] py-[14px] px-2 -mx-2 border-t border-line first:border-t-0 cursor-pointer rounded-lg hover:bg-paper-2 transition-colors"
+                >
+                  <div className="text-center border-r border-line pr-3 md:pr-[14px]">
+                    <div className="text-[11px] tracking-[0.12em] uppercase text-gold-ink font-semibold">
+                      {fmtMonth(ev.start)}
+                    </div>
+                    <div className="font-display font-medium text-[24px] md:text-[26px] leading-none mt-0.5">
+                      {ev.start.getDate()}
+                    </div>
+                  </div>
+                  <div className="min-w-0">
+                    <div className="inline-flex items-center gap-1.5 text-[10.5px] md:text-[11px] font-semibold tracking-[0.08em] uppercase text-ink-2 mb-1">
+                      <span className={`w-[6px] h-[6px] rounded-full ${CAT_DOT[ev.category]}`} />
+                      {CATEGORY_LABEL[ev.category]}
+                    </div>
+                    <p className="text-[15px] font-medium m-0 leading-[1.3]">{ev.title}</p>
+                    <div className="text-[12.5px] md:text-[13px] text-ink-2 tabular">
+                      {fmtDay(ev.start)}{" "}
+                      {isAllDay(ev.start, ev.end)
+                        ? "· all day"
+                        : `· ${fmtTime(ev.start)} – ${fmtTime(ev.end)}`}
+                      {ev.location ? ` · ${ev.location}` : ""}
+                    </div>
+                  </div>
+                </motion.li>
+              ))}
+            </motion.ol>
+          )}
+        </AnimatePresence>
+      </div>
     </aside>
   );
 }
+
+// avoid TS unused import error if agendaContainer ever gets unused
+void agendaContainer;

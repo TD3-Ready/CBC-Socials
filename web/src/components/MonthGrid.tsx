@@ -2,7 +2,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { useMemo } from "react";
 import type { CalEvent, Category } from "../lib/types";
 import { dayVariants, easeOut, monthGridVariants } from "../lib/motion";
-import { fmtMonthLong, fmtTime, sameDay } from "../lib/format";
+import { fmtMonthLong, sameDay } from "../lib/format";
 import { EventPill } from "./EventPill";
 
 interface Props {
@@ -178,7 +178,7 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpen }: Pro
               <div className="hidden md:flex md:flex-col gap-[2px] min-h-0">
                 <AnimatePresence initial={false}>
                   {dayEvents.slice(0, 3).map((ev) => (
-                    <EventPill key={ev.id} event={ev} onOpen={onOpen} time={fmtTime(ev.start)} />
+                    <EventPill key={ev.id} event={ev} onOpen={onOpen} />
                   ))}
                 </AnimatePresence>
                 {dayEvents.length > 3 && (

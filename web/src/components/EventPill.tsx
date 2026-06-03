@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import type { CalEvent } from "../lib/types";
 import { eventPillEntry } from "../lib/motion";
+import { fmtTime, isAllDay } from "../lib/format";
 
 const PIP: Record<CalEvent["category"], string> = {
   worship: "bg-cat-worship",
@@ -13,11 +14,14 @@ const PIP: Record<CalEvent["category"], string> = {
 
 interface Props {
   event: CalEvent;
-  time: string;
   onOpen: (id: string) => void;
 }
 
-export function EventPill({ event, time, onOpen }: Props) {
+export function EventPill({ event, onOpen }: Props) {
+  const timeLabel = isAllDay(event.start, event.end)
+    ? "All day"
+    : `${fmtTime(event.start)}–${fmtTime(event.end)}`;
+
   return (
     <motion.button
       type="button"
@@ -34,7 +38,7 @@ export function EventPill({ event, time, onOpen }: Props) {
       className="flex items-center gap-[6px] px-2 py-[3px] rounded-[6px] text-[11.5px] font-medium text-ink bg-paper-2 w-full text-left whitespace-nowrap overflow-hidden hover:bg-gold-soft transition-colors"
     >
       <span className={`flex-none w-[6px] h-[6px] rounded-full ${PIP[event.category]}`} />
-      <span className="text-ink-2 tabular font-normal">{time}</span>
+      <span className="text-ink-2 tabular font-normal flex-none">{timeLabel}</span>
       <span className="overflow-hidden text-ellipsis">{event.title}</span>
     </motion.button>
   );

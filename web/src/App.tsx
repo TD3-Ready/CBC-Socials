@@ -55,13 +55,26 @@ export default function App() {
 
       <FilterBar value={filter} onChange={setFilter} />
 
+      {/* Mobile order: Agenda (with ferris wheel) above, Calendar below.
+          Desktop order: Calendar left, Agenda right. */}
       <motion.div
         layout
         transition={easeOut}
-        className="grid gap-8 mt-4 md:grid-cols-[minmax(0,1fr)_320px]"
+        className="flex flex-col md:grid md:grid-cols-[minmax(0,1fr)_320px] gap-6 md:gap-8 mt-4"
       >
-        <MonthGrid view={view} events={filtered} onPrev={handlePrev} onNext={handleNext} onToday={handleToday} onOpen={setSelectedId} />
-        <Agenda events={filtered} filter={filter} onOpen={setSelectedId} />
+        <div className="order-2 md:order-none">
+          <MonthGrid
+            view={view}
+            events={filtered}
+            onPrev={handlePrev}
+            onNext={handleNext}
+            onToday={handleToday}
+            onOpen={setSelectedId}
+          />
+        </div>
+        <div className="order-1 md:order-none">
+          <Agenda events={filtered} filter={filter} onOpen={setSelectedId} />
+        </div>
       </motion.div>
 
       <AnimatePresence>
