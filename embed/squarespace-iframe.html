@@ -1,0 +1,34 @@
+<!--
+  CBC Calendar — Squarespace iframe (paste-once, automated forever)
+  ─────────────────────────────────────────────────────────────────
+  Paste this ONE time into a Squarespace Code Block on the Calendar page.
+  Every future change — event added, UI tweak, new motion, new stream —
+  is pushed automatically to Vercel and reflected here. Never touch
+  Squarespace again unless you want a different iframe placement.
+
+  Before pasting, swap the VERCEL_URL below for your real deploy URL,
+  e.g. https://cbc-calendar.vercel.app
+-->
+
+<div id="cbc-calendar-frame" style="width:100%; max-width:1180px; margin:0 auto;">
+  <iframe
+    id="cbc-cal-iframe"
+    src="https://VERCEL_URL_HERE.vercel.app"
+    style="width:100%; height:1400px; border:0; display:block; background:#FAF8F2;"
+    title="CBC Calendar"
+    loading="lazy"
+  ></iframe>
+</div>
+
+<script>
+(function () {
+  var iframe = document.getElementById('cbc-cal-iframe');
+  if (!iframe) return;
+  window.addEventListener('message', function (e) {
+    var d = e.data;
+    if (!d || d.type !== 'cbc-cal-resize' || typeof d.height !== 'number') return;
+    // pad a few pixels to avoid tiny rounding scrollbars
+    iframe.style.height = Math.max(600, Math.ceil(d.height) + 12) + 'px';
+  });
+})();
+</script>
