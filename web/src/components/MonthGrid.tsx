@@ -11,8 +11,8 @@ interface Props {
   onPrev: () => void;
   onNext: () => void;
   onToday: () => void;
-  onOpenEvent: (id: string, y: number) => void;
-  onOpenDay: (day: Date, y: number) => void;
+  onOpenEvent: (id: string) => void;
+  onOpenDay: (day: Date) => void;
 }
 
 const DOT_BG: Record<Category, string> = {
@@ -141,8 +141,8 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpenEvent, 
             <motion.div
               key={`${monthKey}-${day.toISOString()}`}
               variants={dayVariants}
-              onClick={(e) => {
-                if (dayEvents.length >= 1) onOpenDay(day, e.clientY);
+              onClick={() => {
+                if (dayEvents.length >= 1) onOpenDay(day);
               }}
               className={[
                 "relative p-1 md:p-2 border-r border-b border-line bg-card flex flex-col gap-1 cursor-pointer transition-colors min-h-0",
@@ -181,7 +181,7 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpenEvent, 
                     type="button"
                     onClick={(e) => {
                       e.stopPropagation();
-                      onOpenDay(day, e.clientY);
+                      onOpenDay(day);
                     }}
                     className="inline-flex self-start px-2 py-0.5 text-[11px] text-ink-2 hover:text-gold-ink transition-colors"
                   >

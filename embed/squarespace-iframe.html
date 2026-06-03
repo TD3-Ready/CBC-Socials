@@ -1,12 +1,12 @@
 <!--
   CBC Calendar — Squarespace iframe (paste-once, automated forever)
   ─────────────────────────────────────────────────────────────────
-  Paste this ONE time into a Squarespace Code Block on the Calendar page.
-  Every future change — event added, UI tweak, new motion, new stream —
-  is pushed automatically to Vercel and reflected here. Never touch
-  Squarespace again unless you want a different iframe placement.
+  Replace your existing Code Block on the Calendar page with this version.
+  This adds parent→iframe viewport messaging so modals always center in
+  your visible screen area instead of in the middle of the (taller) iframe.
 
   Live URL: https://cbc-socials.vercel.app
+  After this paste, you never need to touch Squarespace again.
 -->
 
 <div id="cbc-calendar-frame" style="width:100%; max-width:1180px; margin:0 auto;">
@@ -23,11 +23,31 @@
 (function () {
   var iframe = document.getElementById('cbc-cal-iframe');
   if (!iframe) return;
+
+  function sendViewport() {
+    if (!iframe.contentWindow) return;
+    var rect = iframe.getBoundingClientRect();
+    iframe.contentWindow.postMessage({
+      type: 'cbc-cal-viewport',
+      iframeTop: rect.top,
+      viewportHeight: window.innerHeight
+    }, '*');
+  }
+
   window.addEventListener('message', function (e) {
     var d = e.data;
-    if (!d || d.type !== 'cbc-cal-resize' || typeof d.height !== 'number') return;
-    // pad a few pixels to avoid tiny rounding scrollbars
-    iframe.style.height = Math.max(600, Math.ceil(d.height) + 12) + 'px';
+    if (!d || typeof d !== 'object') return;
+    if (d.type === 'cbc-cal-resize' && typeof d.height === 'number') {
+      iframe.style.height = Math.max(600, Math.ceil(d.height) + 12) + 'px';
+      sendViewport();
+    } else if (d.type === 'cbc-cal-request-viewport') {
+      sendViewport();
+    }
   });
+
+  window.addEventListener('scroll', sendViewport, { passive: true });
+  window.addEventListener('resize', sendViewport);
+  iframe.addEventListener('load', sendViewport);
+  setTimeout(sendViewport, 600);
 })();
 </script>

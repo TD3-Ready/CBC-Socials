@@ -8,7 +8,7 @@ interface Props {
   events: CalEvent[];
   loaded: boolean;
   error: string | null;
-  onOpen: (id: string, y: number) => void;
+  onOpen: (id: string) => void;
 }
 
 export function Hero({ events, loaded, error, onOpen }: Props) {
@@ -81,7 +81,7 @@ export function Hero({ events, loaded, error, onOpen }: Props) {
           </button>
           <button
             type="button"
-            onClick={(e) => onOpen(next.id, e.clientY)}
+            onClick={() => onOpen(next.id)}
             className="px-[18px] py-[11px] rounded-full text-[14px] font-medium border border-line-2 text-ink hover:bg-paper-2 transition-colors active:translate-y-px"
           >
             Event details

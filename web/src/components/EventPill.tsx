@@ -14,7 +14,7 @@ const PIP: Record<CalEvent["category"], string> = {
 
 interface Props {
   event: CalEvent;
-  onOpen: (id: string, clickY: number) => void;
+  onOpen: (id: string) => void;
 }
 
 export function EventPill({ event, onOpen }: Props) {
@@ -30,7 +30,7 @@ export function EventPill({ event, onOpen }: Props) {
       whileHover={{ y: -1 }}
       onClick={(e) => {
         e.stopPropagation();
-        onOpen(event.id, e.clientY);
+        onOpen(event.id);
       }}
       className="flex items-center gap-[6px] px-2 py-[3px] rounded-[6px] text-[11.5px] font-medium text-ink bg-paper-2 w-full text-left whitespace-nowrap overflow-hidden hover:bg-gold-soft transition-colors"
     >

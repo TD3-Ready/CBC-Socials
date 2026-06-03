@@ -19,7 +19,6 @@ export default function App() {
   const [filter, setFilter] = useState<Category | "all">("all");
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [selectedDay, setSelectedDay] = useState<Date | null>(null);
-  const [anchorY, setAnchorY] = useState(200);
   const [error, setError] = useState<string | null>(null);
   const [loaded, setLoaded] = useState(false);
 
@@ -45,14 +44,12 @@ export default function App() {
     [events, selectedId]
   );
 
-  const openEvent = (id: string, y: number) => {
-    setAnchorY(y);
+  const openEvent = (id: string) => {
     setSelectedDay(null);
     setSelectedId(id);
   };
 
-  const openDay = (day: Date, y: number) => {
-    setAnchorY(y);
+  const openDay = (day: Date) => {
     setSelectedId(null);
     setSelectedDay(day);
   };
@@ -98,13 +95,12 @@ export default function App() {
 
       <AnimatePresence>
         {selectedEvent && (
-          <EventModal event={selectedEvent} anchorY={anchorY} onClose={closeAll} />
+          <EventModal event={selectedEvent} onClose={closeAll} />
         )}
         {selectedDay && !selectedEvent && (
           <DaySheet
             day={selectedDay}
             events={filtered}
-            anchorY={anchorY}
             onOpenEvent={openEvent}
             onClose={closeAll}
           />
