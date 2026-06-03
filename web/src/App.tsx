@@ -61,7 +61,7 @@ export default function App() {
         className="grid gap-8 mt-4 md:grid-cols-[minmax(0,1fr)_320px]"
       >
         <MonthGrid view={view} events={filtered} onPrev={handlePrev} onNext={handleNext} onToday={handleToday} onOpen={setSelectedId} />
-        <Agenda events={filtered} onOpen={setSelectedId} />
+        <Agenda events={filtered} filter={filter} onOpen={setSelectedId} />
       </motion.div>
 
       <AnimatePresence>
