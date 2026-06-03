@@ -7,6 +7,7 @@ import { FilterBar } from "./components/FilterBar";
 import { MonthGrid } from "./components/MonthGrid";
 import { Agenda } from "./components/Agenda";
 import { EventModal } from "./components/EventModal";
+import { DaySheet } from "./components/DaySheet";
 import { easeOut } from "./lib/motion";
 
 export default function App() {
@@ -17,6 +18,8 @@ export default function App() {
   });
   const [filter, setFilter] = useState<Category | "all">("all");
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [selectedDay, setSelectedDay] = useState<Date | null>(null);
+  const [anchorY, setAnchorY] = useState(200);
   const [error, setError] = useState<string | null>(null);
   const [loaded, setLoaded] = useState(false);
 
@@ -42,6 +45,23 @@ export default function App() {
     [events, selectedId]
   );
 
+  const openEvent = (id: string, y: number) => {
+    setAnchorY(y);
+    setSelectedDay(null);
+    setSelectedId(id);
+  };
+
+  const openDay = (day: Date, y: number) => {
+    setAnchorY(y);
+    setSelectedId(null);
+    setSelectedDay(day);
+  };
+
+  const closeAll = () => {
+    setSelectedId(null);
+    setSelectedDay(null);
+  };
+
   const handlePrev = () => setView((v) => new Date(v.getFullYear(), v.getMonth() - 1, 1));
   const handleNext = () => setView((v) => new Date(v.getFullYear(), v.getMonth() + 1, 1));
   const handleToday = () => {
@@ -51,12 +71,10 @@ export default function App() {
 
   return (
     <div className="min-h-screen px-6 md:px-10 py-10 md:py-14 max-w-[1180px] mx-auto">
-      <Hero events={filtered} loaded={loaded} error={error} onOpen={setSelectedId} />
+      <Hero events={filtered} loaded={loaded} error={error} onOpen={openEvent} />
 
       <FilterBar value={filter} onChange={setFilter} />
 
-      {/* Mobile order: Agenda (with ferris wheel) above, Calendar below.
-          Desktop order: Calendar left, Agenda right. */}
       <motion.div
         layout
         transition={easeOut}
@@ -69,17 +87,27 @@ export default function App() {
             onPrev={handlePrev}
             onNext={handleNext}
             onToday={handleToday}
-            onOpen={setSelectedId}
+            onOpenEvent={openEvent}
+            onOpenDay={openDay}
           />
         </div>
         <div className="order-1 md:order-none">
-          <Agenda events={filtered} filter={filter} onOpen={setSelectedId} />
+          <Agenda events={filtered} filter={filter} onOpen={openEvent} />
         </div>
       </motion.div>
 
       <AnimatePresence>
         {selectedEvent && (
-          <EventModal event={selectedEvent} onClose={() => setSelectedId(null)} />
+          <EventModal event={selectedEvent} anchorY={anchorY} onClose={closeAll} />
+        )}
+        {selectedDay && !selectedEvent && (
+          <DaySheet
+            day={selectedDay}
+            events={filtered}
+            anchorY={anchorY}
+            onOpenEvent={openEvent}
+            onClose={closeAll}
+          />
         )}
       </AnimatePresence>
     </div>

@@ -1,19 +1,10 @@
 import { motion } from "framer-motion";
-import { useEffect } from "react";
+import { useEffect, useMemo } from "react";
 import type { CalEvent } from "../lib/types";
 import { CATEGORY_LABEL } from "../lib/types";
 import { fmtFullDate, fmtTime, isAllDay } from "../lib/format";
 import { downloadICS, googleAddURL } from "../lib/ics";
 import { easeOut, spring } from "../lib/motion";
-
-const PIP_VAR: Record<CalEvent["category"], string> = {
-  worship: "var(--c-worship)",
-  study: "var(--c-study)",
-  music: "var(--c-music)",
-  youth: "var(--c-youth)",
-  outreach: "var(--c-outreach)",
-  other: "var(--c-other)",
-};
 
 const PIP_HEX: Record<CalEvent["category"], string> = {
   worship: "#4A6FA5",
@@ -26,45 +17,59 @@ const PIP_HEX: Record<CalEvent["category"], string> = {
 
 interface Props {
   event: CalEvent;
+  anchorY: number;
   onClose: () => void;
 }
 
-export function EventModal({ event, onClose }: Props) {
+export function EventModal({ event, anchorY, onClose }: Props) {
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") onClose();
     };
     document.addEventListener("keydown", onKey);
-    document.body.style.overflow = "hidden";
-    return () => {
-      document.removeEventListener("keydown", onKey);
-      document.body.style.overflow = "";
-    };
+    return () => document.removeEventListener("keydown", onKey);
   }, [onClose]);
+
+  const top = useMemo(() => {
+    const estHeight = 520;
+    const viewport =
+      typeof window === "undefined"
+        ? 800
+        : window.innerHeight || document.documentElement.clientHeight;
+    // Anchor below click, but clamp so modal stays fully in iframe viewport
+    const desired = Math.max(20, anchorY - 80);
+    const max = Math.max(20, viewport - estHeight - 20);
+    return Math.min(desired, max);
+  }, [anchorY]);
 
   const when = isAllDay(event.start, event.end)
     ? `${fmtFullDate(event.start)} · All day`
     : `${fmtFullDate(event.start)} · ${fmtTime(event.start)} – ${fmtTime(event.end)}`;
 
-  void PIP_VAR;
-
   return (
-    <motion.div
-      role="dialog"
-      aria-modal="true"
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-      transition={easeOut}
-      onClick={onClose}
-      className="fixed inset-0 z-[9999] flex items-center justify-center p-6 backdrop-blur-md"
-      style={{ background: "rgba(20,18,12,0.32)" }}
-    >
+    <>
+      {/* Backdrop */}
       <motion.div
-        layoutId={`event-${event.id}`}
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+        transition={easeOut}
+        onClick={onClose}
+        className="fixed inset-0 z-[9998] backdrop-blur-md"
+        style={{ background: "rgba(20,18,12,0.32)" }}
+      />
+
+      {/* Modal card — anchored near click */}
+      <motion.div
+        role="dialog"
+        aria-modal="true"
+        initial={{ opacity: 0, scale: 0.94, y: 14 }}
+        animate={{ opacity: 1, scale: 1, y: 0 }}
+        exit={{ opacity: 0, scale: 0.96, y: 10 }}
         transition={spring}
         onClick={(e) => e.stopPropagation()}
-        className="relative bg-card rounded-[28px] p-9 max-w-[520px] w-full shadow-lift"
+        className="fixed left-1/2 -translate-x-1/2 z-[9999] bg-card rounded-[28px] p-6 md:p-9 max-w-[520px] w-[calc(100%-32px)] shadow-lift"
+        style={{ top }}
       >
         <button
           type="button"
@@ -77,31 +82,16 @@ export function EventModal({ event, onClose }: Props) {
           </svg>
         </button>
 
-        <motion.p
-          initial={{ opacity: 0, y: 6 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ ...easeOut, delay: 0.1 }}
-          className="inline-flex items-center gap-2 text-[11px] font-semibold tracking-[0.12em] uppercase text-ink-2 m-0 mb-2.5"
-        >
+        <p className="inline-flex items-center gap-2 text-[11px] font-semibold tracking-[0.12em] uppercase text-ink-2 m-0 mb-2.5">
           <span className="w-[7px] h-[7px] rounded-full" style={{ background: PIP_HEX[event.category] }} />
           {CATEGORY_LABEL[event.category]}
-        </motion.p>
+        </p>
 
-        <motion.h2
-          initial={{ opacity: 0, y: 6 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ ...easeOut, delay: 0.14 }}
-          className="font-display font-medium text-[30px] tracking-[-0.015em] leading-[1.15] m-0 mb-5"
-        >
+        <h2 className="font-display font-medium text-[26px] md:text-[30px] tracking-[-0.015em] leading-[1.15] m-0 mb-5">
           {event.title}
-        </motion.h2>
+        </h2>
 
-        <motion.dl
-          initial={{ opacity: 0, y: 6 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ ...easeOut, delay: 0.18 }}
-          className="m-0 mb-5 flex flex-col gap-2"
-        >
+        <dl className="m-0 mb-5 flex flex-col gap-2">
           <div className="grid grid-cols-[64px_1fr] gap-2 text-[14px]">
             <dt className="text-ink-3 text-[11px] font-semibold tracking-[0.12em] uppercase pt-0.5">When</dt>
             <dd className="m-0 text-ink">{when}</dd>
@@ -110,25 +100,15 @@ export function EventModal({ event, onClose }: Props) {
             <dt className="text-ink-3 text-[11px] font-semibold tracking-[0.12em] uppercase pt-0.5">Where</dt>
             <dd className="m-0 text-ink">{event.location || "—"}</dd>
           </div>
-        </motion.dl>
+        </dl>
 
         {event.description && (
-          <motion.p
-            initial={{ opacity: 0, y: 6 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ ...easeOut, delay: 0.22 }}
-            className="text-ink-2 text-[15px] leading-[1.55] m-0 mb-6 whitespace-pre-line"
-          >
+          <p className="text-ink-2 text-[15px] leading-[1.55] m-0 mb-6 whitespace-pre-line">
             {event.description}
-          </motion.p>
+          </p>
         )}
 
-        <motion.div
-          initial={{ opacity: 0, y: 6 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ ...easeOut, delay: 0.26 }}
-          className="flex gap-2.5 flex-wrap"
-        >
+        <div className="flex gap-2.5 flex-wrap">
           <button
             type="button"
             onClick={() => downloadICS(event)}
@@ -144,8 +124,8 @@ export function EventModal({ event, onClose }: Props) {
           >
             {event.htmlLink ? "Open in Google Calendar" : "Add via Google Calendar"}
           </a>
-        </motion.div>
+        </div>
       </motion.div>
-    </motion.div>
+    </>
   );
 }

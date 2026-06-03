@@ -14,18 +14,15 @@ const PIP: Record<CalEvent["category"], string> = {
 
 interface Props {
   event: CalEvent;
-  onOpen: (id: string) => void;
+  onOpen: (id: string, clickY: number) => void;
 }
 
 export function EventPill({ event, onOpen }: Props) {
-  const timeLabel = isAllDay(event.start, event.end)
-    ? "All day"
-    : `${fmtTime(event.start)}–${fmtTime(event.end)}`;
+  const timeLabel = isAllDay(event.start, event.end) ? "All day" : fmtTime(event.start);
 
   return (
     <motion.button
       type="button"
-      layoutId={`event-${event.id}`}
       variants={eventPillEntry}
       initial="hidden"
       animate="show"
@@ -33,7 +30,7 @@ export function EventPill({ event, onOpen }: Props) {
       whileHover={{ y: -1 }}
       onClick={(e) => {
         e.stopPropagation();
-        onOpen(event.id);
+        onOpen(event.id, e.clientY);
       }}
       className="flex items-center gap-[6px] px-2 py-[3px] rounded-[6px] text-[11.5px] font-medium text-ink bg-paper-2 w-full text-left whitespace-nowrap overflow-hidden hover:bg-gold-soft transition-colors"
     >

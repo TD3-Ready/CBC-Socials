@@ -11,7 +11,8 @@ interface Props {
   onPrev: () => void;
   onNext: () => void;
   onToday: () => void;
-  onOpen: (id: string) => void;
+  onOpenEvent: (id: string, y: number) => void;
+  onOpenDay: (day: Date, y: number) => void;
 }
 
 const DOT_BG: Record<Category, string> = {
@@ -50,14 +51,13 @@ function buildDays(view: Date) {
   return { days, month };
 }
 
-export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpen }: Props) {
+export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpenEvent, onOpenDay }: Props) {
   const today = useMemo(() => new Date(), []);
   const { days, month } = useMemo(() => buildDays(view), [view]);
   const monthKey = `${view.getFullYear()}-${view.getMonth()}`;
 
   return (
     <div className="bg-card border border-line rounded-[18px] shadow-soft overflow-hidden">
-      {/* Month header */}
       <div className="flex items-center gap-2 md:gap-3 px-3 md:px-5 py-3 md:py-4 border-b border-line">
         <motion.button
           type="button"
@@ -111,7 +111,6 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpen }: Pro
         </motion.button>
       </div>
 
-      {/* Weekday header */}
       <div className="grid grid-cols-7 border-b border-line bg-paper-2">
         {["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"].map((w) => (
           <span key={w} className="px-1.5 md:px-3 py-2 md:py-[10px] text-[9px] md:text-[11px] font-semibold uppercase tracking-[0.1em] md:tracking-[0.12em] text-ink-2 text-center md:text-left">
@@ -121,7 +120,6 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpen }: Pro
         ))}
       </div>
 
-      {/* Grid */}
       <motion.div
         key={monthKey}
         variants={monthGridVariants}
@@ -143,8 +141,8 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpen }: Pro
             <motion.div
               key={`${monthKey}-${day.toISOString()}`}
               variants={dayVariants}
-              onClick={() => {
-                if (dayEvents.length >= 1) onOpen(dayEvents[0].id);
+              onClick={(e) => {
+                if (dayEvents.length >= 1) onOpenDay(day, e.clientY);
               }}
               className={[
                 "relative p-1 md:p-2 border-r border-b border-line bg-card flex flex-col gap-1 cursor-pointer transition-colors min-h-0",
@@ -163,13 +161,10 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpen }: Pro
                 {day.getDate()}
               </span>
 
-              {/* Mobile: dot cluster, one dot per unique category */}
+              {/* Mobile: dot cluster */}
               <div className="flex flex-wrap items-center gap-[3px] md:hidden self-start pl-0.5">
                 {cats.slice(0, 4).map((c) => (
-                  <span
-                    key={c}
-                    className={`w-1.5 h-1.5 rounded-full ${DOT_BG[c]}`}
-                  />
+                  <span key={c} className={`w-1.5 h-1.5 rounded-full ${DOT_BG[c]}`} />
                 ))}
                 {cats.length > 4 && <span className="text-[8px] text-ink-3 leading-none">+</span>}
               </div>
@@ -178,7 +173,7 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpen }: Pro
               <div className="hidden md:flex md:flex-col gap-[2px] min-h-0">
                 <AnimatePresence initial={false}>
                   {dayEvents.slice(0, 3).map((ev) => (
-                    <EventPill key={ev.id} event={ev} onOpen={onOpen} />
+                    <EventPill key={ev.id} event={ev} onOpen={onOpenEvent} />
                   ))}
                 </AnimatePresence>
                 {dayEvents.length > 3 && (
@@ -186,7 +181,7 @@ export function MonthGrid({ view, events, onPrev, onNext, onToday, onOpen }: Pro
                     type="button"
                     onClick={(e) => {
                       e.stopPropagation();
-                      onOpen(dayEvents[0].id);
+                      onOpenDay(day, e.clientY);
                     }}
                     className="inline-flex self-start px-2 py-0.5 text-[11px] text-ink-2 hover:text-gold-ink transition-colors"
                   >

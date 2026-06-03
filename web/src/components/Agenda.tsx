@@ -27,7 +27,7 @@ const ACCENT: Record<Category | "all", string> = {
 interface Props {
   events: CalEvent[];
   filter: Category | "all";
-  onOpen: (id: string) => void;
+  onOpen: (id: string, y: number) => void;
 }
 
 function AnimatedTitle({ text, filter }: { text: string; filter: Category | "all" }) {
@@ -156,7 +156,7 @@ export function Agenda({ events, filter, onOpen }: Props) {
                 <motion.li
                   key={ev.id}
                   variants={agendaItemVariants}
-                  onClick={() => onOpen(ev.id)}
+                  onClick={(e) => onOpen(ev.id, e.clientY)}
                   whileHover={{ x: 2 }}
                   className="grid grid-cols-[52px_1fr] md:grid-cols-[56px_1fr] gap-3 md:gap-[14px] py-[14px] px-2 -mx-2 border-t border-line first:border-t-0 cursor-pointer rounded-lg hover:bg-paper-2 transition-colors"
                 >
