@@ -1,5 +1,3396 @@
 {
-  "updated": null,
-  "count": 0,
-  "events": []
+  "updated": "2026-06-03T18:03:18Z",
+  "count": 339,
+  "events": [
+    {
+      "id": "7l0265saiatn5cpvpge65hg07v",
+      "title": "Who's Your One Prayer Emphasis",
+      "category": "other",
+      "start": "2026-03-08T00:00:00",
+      "end": "2026-04-07T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2wwMjY1c2FpYXRuNWNwdnBnZTY1aGcwN3YgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "3statubtr7an3vfoaeohtbogg6",
+      "title": "Easter Sunday",
+      "category": "worship",
+      "start": "2026-04-05T00:00:00",
+      "end": "2026-04-06T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M3N0YXR1YnRyN2FuM3Zmb2Flb2h0Ym9nZzYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "5iu55l5mkq9j0u72opud2oo69c",
+      "title": "FLC/Reserved",
+      "category": "outreach",
+      "start": "2026-04-05T00:00:00",
+      "end": "2026-04-06T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWl1NTVsNW1rcTlqMHU3Mm9wdWQyb282OWMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260405T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-04-05T09:00:00-05:00",
+      "end": "2026-04-05T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA0MDVUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260405T150000Z",
+      "title": "Easter Sunday Worship",
+      "category": "worship",
+      "start": "2026-04-05T10:00:00-05:00",
+      "end": "2026-04-05T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA0MDVUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0e4oplbc9f961qdhiulb9tejh7_20260408T230000Z",
+      "title": "HitPit",
+      "category": "other",
+      "start": "2026-04-08T18:00:00-05:00",
+      "end": "2026-04-08T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGU0b3BsYmM5Zjk2MXFkaGl1bGI5dGVqaDdfMjAyNjA0MDhUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "47psgclrjk4h1hc3t195nllikv_20260408T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-04-08T18:00:00-05:00",
+      "end": "2026-04-08T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDdwc2djbHJqazRoMWhjM3QxOTVubGxpa3ZfMjAyNjA0MDhUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260408T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-04-08T18:30:00-05:00",
+      "end": "2026-04-08T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA0MDhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7amhcidibd59sfh8nb65i0e8ua",
+      "title": "Gym Reserved",
+      "category": "outreach",
+      "start": "2026-04-11T00:00:00",
+      "end": "2026-04-12T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2FtaGNpZGliZDU5c2ZoOG5iNjVpMGU4dWEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260412T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-04-12T09:00:00-05:00",
+      "end": "2026-04-12T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA0MTJUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260412T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-04-12T10:00:00-05:00",
+      "end": "2026-04-12T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA0MTJUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "769ksju69b6a3b7kd6ftdqc4sb",
+      "title": "Deacon's Meeting",
+      "category": "other",
+      "start": "2026-04-12T11:00:00-05:00",
+      "end": "2026-04-12T12:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NzY5a3NqdTY5YjZhM2I3a2Q2ZnRkcWM0c2IgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "6iqjbr0l6jkgphbe7gbor2ss7n",
+      "title": "Transition Team Mtg",
+      "category": "other",
+      "start": "2026-04-12T11:30:00-05:00",
+      "end": "2026-04-12T13:30:00-05:00",
+      "location": "Fellowship Hall",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmlxamJyMGw2amtncGhiZTdnYm9yMnNzN24gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "26f75qrkk8hpk0u4j56n17qbf4",
+      "title": "FLC Reserved",
+      "category": "outreach",
+      "start": "2026-04-13T00:00:00",
+      "end": "2026-04-17T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjZmNzVxcmtrOGhwazB1NGo1Nm4xN3FiZjQgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "0e4oplbc9f961qdhiulb9tejh7_20260415T230000Z",
+      "title": "HitPit",
+      "category": "other",
+      "start": "2026-04-15T18:00:00-05:00",
+      "end": "2026-04-15T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGU0b3BsYmM5Zjk2MXFkaGl1bGI5dGVqaDdfMjAyNjA0MTVUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "47psgclrjk4h1hc3t195nllikv_20260415T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-04-15T18:00:00-05:00",
+      "end": "2026-04-15T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDdwc2djbHJqazRoMWhjM3QxOTVubGxpa3ZfMjAyNjA0MTVUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260415T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-04-15T18:30:00-05:00",
+      "end": "2026-04-15T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA0MTVUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260419T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-04-19T09:00:00-05:00",
+      "end": "2026-04-19T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA0MTlUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260419T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-04-19T10:00:00-05:00",
+      "end": "2026-04-19T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA0MTlUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0e4oplbc9f961qdhiulb9tejh7_20260422T230000Z",
+      "title": "HitPit",
+      "category": "other",
+      "start": "2026-04-22T18:00:00-05:00",
+      "end": "2026-04-22T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGU0b3BsYmM5Zjk2MXFkaGl1bGI5dGVqaDdfMjAyNjA0MjJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "47psgclrjk4h1hc3t195nllikv_20260422T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-04-22T18:00:00-05:00",
+      "end": "2026-04-22T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDdwc2djbHJqazRoMWhjM3QxOTVubGxpa3ZfMjAyNjA0MjJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260422T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-04-22T18:30:00-05:00",
+      "end": "2026-04-22T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA0MjJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5fqg1cf5prs4pdu4aljj2fepcs",
+      "title": "Business Meeting following worship",
+      "category": "worship",
+      "start": "2026-04-26T00:00:00",
+      "end": "2026-04-27T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWZxZzFjZjVwcnM0cGR1NGFsamoyZmVwY3MgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "5jfjgebchr9ih6t5nqo62rrchn",
+      "title": "Reserved OFH",
+      "category": "outreach",
+      "start": "2026-04-26T00:00:00",
+      "end": "2026-04-27T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWpmamdlYmNocjlpaDZ0NW5xbzYycnJjaG4gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260426T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-04-26T09:00:00-05:00",
+      "end": "2026-04-26T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA0MjZUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260426T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-04-26T10:00:00-05:00",
+      "end": "2026-04-26T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA0MjZUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0e4oplbc9f961qdhiulb9tejh7_20260429T230000Z",
+      "title": "Speak Tour",
+      "category": "other",
+      "start": "2026-04-29T18:00:00-05:00",
+      "end": "2026-04-29T20:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGU0b3BsYmM5Zjk2MXFkaGl1bGI5dGVqaDdfMjAyNjA0MjlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "47psgclrjk4h1hc3t195nllikv_20260429T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-04-29T18:00:00-05:00",
+      "end": "2026-04-29T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDdwc2djbHJqazRoMWhjM3QxOTVubGxpa3ZfMjAyNjA0MjlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260429T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-04-29T18:30:00-05:00",
+      "end": "2026-04-29T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA0MjlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "42k1mcqqo4d0a6vf2co6bjv9m7",
+      "title": "Reserved/OFH",
+      "category": "outreach",
+      "start": "2026-05-01T00:00:00",
+      "end": "2026-05-02T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDJrMW1jcXFvNGQwYTZ2ZjJjbzZianY5bTcgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "5t80i7uf11kr7ardfo2dioe21e",
+      "title": "Reserved/OFH",
+      "category": "outreach",
+      "start": "2026-05-02T00:00:00",
+      "end": "2026-05-03T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NXQ4MGk3dWYxMWtyN2FyZGZvMmRpb2UyMWUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260503T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-05-03T09:00:00-05:00",
+      "end": "2026-05-03T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA1MDNUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260503T150000Z",
+      "title": "Graduation Sunday",
+      "category": "worship",
+      "start": "2026-05-03T10:00:00-05:00",
+      "end": "2026-05-03T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA1MDNUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7oir8sbr8198cqehivvpkkkh7d",
+      "title": "Deacon's Meeting",
+      "category": "other",
+      "start": "2026-05-03T11:00:00-05:00",
+      "end": "2026-05-03T12:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N29pcjhzYnI4MTk4Y3FlaGl2dnBra2toN2QgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "68utu9ocud1o3lns896sap46u4",
+      "title": "Church Council",
+      "category": "other",
+      "start": "2026-05-03T14:00:00-05:00",
+      "end": "2026-05-03T15:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Njh1dHU5b2N1ZDFvM2xuczg5NnNhcDQ2dTQgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "0e4oplbc9f961qdhiulb9tejh7_20260506T230000Z",
+      "title": "HitPit",
+      "category": "other",
+      "start": "2026-05-06T18:00:00-05:00",
+      "end": "2026-05-06T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGU0b3BsYmM5Zjk2MXFkaGl1bGI5dGVqaDdfMjAyNjA1MDZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "47psgclrjk4h1hc3t195nllikv_20260506T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-05-06T18:00:00-05:00",
+      "end": "2026-05-06T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDdwc2djbHJqazRoMWhjM3QxOTVubGxpa3ZfMjAyNjA1MDZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260506T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-05-06T18:30:00-05:00",
+      "end": "2026-05-06T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA1MDZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "2rdadfublhqtgqcqdjfiosj39a",
+      "title": "Mother's Day",
+      "category": "other",
+      "start": "2026-05-10T00:00:00",
+      "end": "2026-05-11T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MnJkYWRmdWJsaHF0Z3FjcWRqZmlvc2ozOWEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260510T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-05-10T09:00:00-05:00",
+      "end": "2026-05-10T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA1MTBUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260510T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-05-10T10:00:00-05:00",
+      "end": "2026-05-10T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA1MTBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0e4oplbc9f961qdhiulb9tejh7_20260513T230000Z",
+      "title": "HitPit",
+      "category": "other",
+      "start": "2026-05-13T18:00:00-05:00",
+      "end": "2026-05-13T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGU0b3BsYmM5Zjk2MXFkaGl1bGI5dGVqaDdfMjAyNjA1MTNUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4u6g6lbsvq5cmf94vsp1sq53j1",
+      "title": "Young at Heart",
+      "category": "other",
+      "start": "2026-05-14T00:00:00",
+      "end": "2026-05-15T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NHU2ZzZsYnN2cTVjbWY5NHZzcDFzcTUzajEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "6at28s9cvcleph5h52gr64p4am",
+      "title": "Reserved FLC/4pm",
+      "category": "outreach",
+      "start": "2026-05-17T00:00:00",
+      "end": "2026-05-18T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmF0MjhzOWN2Y2xlcGg1aDUyZ3I2NHA0YW0gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260517T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-05-17T09:00:00-05:00",
+      "end": "2026-05-17T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA1MTdUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260517T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-05-17T10:00:00-05:00",
+      "end": "2026-05-17T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA1MTdUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4hm94uhnsek06680b1v8sak8bq",
+      "title": "Transition Team Mtg",
+      "category": "other",
+      "start": "2026-05-17T11:30:00-05:00",
+      "end": "2026-05-17T13:30:00-05:00",
+      "location": "Fellowship Hall",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGhtOTR1aG5zZWswNjY4MGIxdjhzYWs4YnEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "0uko4kq6m360bjv6ojm7nngck3",
+      "title": "Quarterly Business Mtg",
+      "category": "other",
+      "start": "2026-05-20T18:30:00-05:00",
+      "end": "2026-05-20T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MHVrbzRrcTZtMzYwYmp2Nm9qbTdubmdjazMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "2jetq3nvq3semme3vftcrb8ta2",
+      "title": "Beach Retreat",
+      "category": "other",
+      "start": "2026-05-22T00:00:00",
+      "end": "2026-05-26T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MmpldHEzbnZxM3NlbW1lM3ZmdGNyYjh0YTIgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260524T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-05-24T09:00:00-05:00",
+      "end": "2026-05-24T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA1MjRUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260524T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-05-24T10:00:00-05:00",
+      "end": "2026-05-24T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA1MjRUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "2ted6ckc05imvmegsbttprgk7q",
+      "title": "Church office closed",
+      "category": "other",
+      "start": "2026-05-25T00:00:00",
+      "end": "2026-05-26T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MnRlZDZja2MwNWltdm1lZ3NidHRwcmdrN3EgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1ui2s1hikkrvmjok17vr9a9b8p",
+      "title": "Reserved OFH",
+      "category": "outreach",
+      "start": "2026-05-26T00:00:00",
+      "end": "2026-05-29T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXVpMnMxaGlra3J2bWpvazE3dnI5YTliOHAgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260527T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-05-27T18:30:00-05:00",
+      "end": "2026-05-27T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA1MjdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "398n2e9766us43qdnmsm52p87i",
+      "title": "Reserved /OFH",
+      "category": "outreach",
+      "start": "2026-05-29T00:00:00",
+      "end": "2026-05-30T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Mzk4bjJlOTc2NnVzNDNxZG5tc201MnA4N2kgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1eau61mosllb3hsbt71qr7qjpb",
+      "title": "Reserved OFH",
+      "category": "outreach",
+      "start": "2026-05-30T00:00:00",
+      "end": "2026-05-31T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWVhdTYxbW9zbGxiM2hzYnQ3MXFyN3FqcGIgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260531T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-05-31T09:00:00-05:00",
+      "end": "2026-05-31T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA1MzFUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260531T150000Z",
+      "title": "Morning Worship-Lord's Supper",
+      "category": "worship",
+      "start": "2026-05-31T10:00:00-05:00",
+      "end": "2026-05-31T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA1MzFUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "50aik1tp3v5pmeoeel790lhh5h",
+      "title": "Refocus Retreat",
+      "category": "other",
+      "start": "2026-05-31T16:00:00-05:00",
+      "end": "2026-05-31T21:00:00-05:00",
+      "location": "Fellowship Hall",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NTBhaWsxdHAzdjVwbWVvZWVsNzkwbGhoNWggMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "_8co3ic218oq30b9m75234b9k6srk2ba26t0jgb9i6soj0c9n88p44ci584_20260603T230000Z",
+      "title": "CBCY Summer Groups",
+      "category": "other",
+      "start": "2026-06-03T18:00:00-05:00",
+      "end": "2026-06-03T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhjbzNpYzIxOG9xMzBiOW03NTIzNGI5azZzcmsyYmEyNnQwamdiOWk2c29qMGM5bjg4cDQ0Y2k1ODRfMjAyNjA2MDNUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260603T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-06-03T18:30:00-05:00",
+      "end": "2026-06-03T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA2MDNUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1p2nn3sq9gv6h36dv9u4ur95hn",
+      "title": "STS Mission",
+      "category": "outreach",
+      "start": "2026-06-04T00:00:00",
+      "end": "2026-06-08T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXAybm4zc3E5Z3Y2aDM2ZHY5dTR1cjk1aG4gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260607T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-06-07T09:00:00-05:00",
+      "end": "2026-06-07T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA2MDdUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260607T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-06-07T10:00:00-05:00",
+      "end": "2026-06-07T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA2MDdUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "41aki0mififpel3jmjk0goeptb",
+      "title": "Vacation Bible School",
+      "category": "study",
+      "start": "2026-06-07T18:00:00-05:00",
+      "end": "2026-06-07T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDFha2kwbWlmaWZwZWwzam1qazBnb2VwdGIgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "064n1g15ig7nbl2u7mn2le1us4_20260608T170000Z",
+      "title": "Vacation Bible School",
+      "category": "study",
+      "start": "2026-06-08T12:00:00-05:00",
+      "end": "2026-06-08T15:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MDY0bjFnMTVpZzduYmwydTdtbjJsZTF1czRfMjAyNjA2MDhUMTcwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "064n1g15ig7nbl2u7mn2le1us4_20260609T170000Z",
+      "title": "Vacation Bible School",
+      "category": "study",
+      "start": "2026-06-09T12:00:00-05:00",
+      "end": "2026-06-09T15:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MDY0bjFnMTVpZzduYmwydTdtbjJsZTF1czRfMjAyNjA2MDlUMTcwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "064n1g15ig7nbl2u7mn2le1us4_20260610T170000Z",
+      "title": "Vacation Bible School",
+      "category": "study",
+      "start": "2026-06-10T12:00:00-05:00",
+      "end": "2026-06-10T15:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MDY0bjFnMTVpZzduYmwydTdtbjJsZTF1czRfMjAyNjA2MTBUMTcwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "_8co3ic218oq30b9m75234b9k6srk2ba26t0jgb9i6soj0c9n88p44ci584_20260610T230000Z",
+      "title": "CBCY Summer Groups",
+      "category": "other",
+      "start": "2026-06-10T18:00:00-05:00",
+      "end": "2026-06-10T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhjbzNpYzIxOG9xMzBiOW03NTIzNGI5azZzcmsyYmEyNnQwamdiOWk2c29qMGM5bjg4cDQ0Y2k1ODRfMjAyNjA2MTBUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260610T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-06-10T18:30:00-05:00",
+      "end": "2026-06-10T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA2MTBUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260614T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-06-14T09:00:00-05:00",
+      "end": "2026-06-14T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA2MTRUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260614T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-06-14T10:00:00-05:00",
+      "end": "2026-06-14T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA2MTRUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "6um57vlspdq389tmr2kkjsvmbf",
+      "title": "Transition Team Mtg",
+      "category": "other",
+      "start": "2026-06-14T11:30:00-05:00",
+      "end": "2026-06-14T13:30:00-05:00",
+      "location": "Fellowship Hall",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NnVtNTd2bHNwZHEzODl0bXIya2tqc3ZtYmYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "0c2n653kpjvlnelimo3qten1nc",
+      "title": "Down's SS Class/OFH",
+      "category": "study",
+      "start": "2026-06-14T15:00:00-05:00",
+      "end": "2026-06-14T15:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGMybjY1M2twanZsbmVsaW1vM3F0ZW4xbmMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260617T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-06-17T18:30:00-05:00",
+      "end": "2026-06-17T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA2MTdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5esm4q7lq39fviapngrc6a8rbf",
+      "title": "Father's Day",
+      "category": "other",
+      "start": "2026-06-21T00:00:00",
+      "end": "2026-06-22T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWVzbTRxN2xxMzlmdmlhcG5ncmM2YThyYmYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260621T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-06-21T09:00:00-05:00",
+      "end": "2026-06-21T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA2MjFUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260621T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-06-21T10:00:00-05:00",
+      "end": "2026-06-21T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA2MjFUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "8gjdtidkq5i2odvqfhc4a3a7es",
+      "title": "Distribute Initiatives",
+      "category": "other",
+      "start": "2026-06-21T11:30:00-05:00",
+      "end": "2026-06-21T12:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=OGdqZHRpZGtxNWkyb2R2cWZoYzRhM2E3ZXMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "_8co3ic218oq30b9m75234b9k6srk2ba26t0jgb9i6soj0c9n88p44ci584_20260624T230000Z",
+      "title": "CBCY Summer Groups",
+      "category": "other",
+      "start": "2026-06-24T18:00:00-05:00",
+      "end": "2026-06-24T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=XzhjbzNpYzIxOG9xMzBiOW03NTIzNGI5azZzcmsyYmEyNnQwamdiOWk2c29qMGM5bjg4cDQ0Y2k1ODRfMjAyNjA2MjRUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260624T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-06-24T18:30:00-05:00",
+      "end": "2026-06-24T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA2MjRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5olbfududavbdjp2baj5nq9g6a",
+      "title": "Franklin Wedding",
+      "category": "other",
+      "start": "2026-06-26T00:00:00",
+      "end": "2026-06-28T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NW9sYmZ1ZHVkYXZiZGpwMmJhajVucTlnNmEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260628T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-06-28T09:00:00-05:00",
+      "end": "2026-06-28T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA2MjhUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260628T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-06-28T10:00:00-05:00",
+      "end": "2026-06-28T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA2MjhUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7jflbmgouco4tgbntv3oqf056c",
+      "title": "Townhall to Discuss Initiatives",
+      "category": "other",
+      "start": "2026-06-28T17:00:00-05:00",
+      "end": "2026-06-28T19:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2pmbGJtZ291Y280dGdibnR2M29xZjA1NmMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260701T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-07-01T18:30:00-05:00",
+      "end": "2026-07-01T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA3MDFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "02qldqaelv096e6cs38pr79mj4",
+      "title": "Church Office Closed",
+      "category": "other",
+      "start": "2026-07-02T00:00:00",
+      "end": "2026-07-03T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MDJxbGRxYWVsdjA5NmU2Y3MzOHByNzltajQgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260705T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-07-05T09:00:00-05:00",
+      "end": "2026-07-05T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA3MDVUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260705T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-07-05T10:00:00-05:00",
+      "end": "2026-07-05T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA3MDVUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260708T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-07-08T18:30:00-05:00",
+      "end": "2026-07-08T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA3MDhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7a1kj1ua8cu1m15kvle3ccelqj",
+      "title": "Young At Heart",
+      "category": "other",
+      "start": "2026-07-09T00:00:00",
+      "end": "2026-07-10T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2Exa2oxdWE4Y3UxbTE1a3ZsZTNjY2VscWogMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "2r62udg2hgftcckmhc9812o4kb",
+      "title": "Children's Camp",
+      "category": "youth",
+      "start": "2026-07-11T00:00:00",
+      "end": "2026-07-14T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MnI2MnVkZzJoZ2Z0Y2NrbWhjOTgxMm80a2IgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260712T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-07-12T09:00:00-05:00",
+      "end": "2026-07-12T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA3MTJUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260712T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-07-12T10:00:00-05:00",
+      "end": "2026-07-12T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA3MTJUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260715T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-07-15T18:30:00-05:00",
+      "end": "2026-07-15T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA3MTVUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260719T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-07-19T09:00:00-05:00",
+      "end": "2026-07-19T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA3MTlUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260719T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-07-19T10:00:00-05:00",
+      "end": "2026-07-19T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA3MTlUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "6s9toudvncbneau0bl7uieb9tv",
+      "title": "Vote on Initiatives",
+      "category": "other",
+      "start": "2026-07-19T11:00:00-05:00",
+      "end": "2026-07-19T12:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NnM5dG91ZHZuY2JuZWF1MGJsN3VpZWI5dHYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "19r6kvfb2b8ohequb0c1n0n77t",
+      "title": "Transition Team meets w/Church Council",
+      "category": "other",
+      "start": "2026-07-19T14:00:00-05:00",
+      "end": "2026-07-19T16:00:00-05:00",
+      "location": "Fellowship Hall",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MTlyNmt2ZmIyYjhvaGVxdWIwYzFuMG43N3QgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260722T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-07-22T18:30:00-05:00",
+      "end": "2026-07-22T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA3MjJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260726T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-07-26T09:00:00-05:00",
+      "end": "2026-07-26T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA3MjZUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260726T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-07-26T10:00:00-05:00",
+      "end": "2026-07-26T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA3MjZUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "62mp03e74p1itq0pl5gm27e0d9",
+      "title": "CBCY Parents Summit",
+      "category": "other",
+      "start": "2026-07-29T18:00:00-05:00",
+      "end": "2026-07-29T19:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NjJtcDAzZTc0cDFpdHEwcGw1Z20yN2UwZDkgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260729T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-07-29T18:30:00-05:00",
+      "end": "2026-07-29T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA3MjlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7a105g6fl3ikuvmknb8gbmid6o",
+      "title": "Deacon Election",
+      "category": "other",
+      "start": "2026-08-02T00:00:00",
+      "end": "2026-08-03T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2ExMDVnNmZsM2lrdXZta25iOGdibWlkNm8gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260802T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-08-02T09:00:00-05:00",
+      "end": "2026-08-02T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA4MDJUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260802T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-08-02T10:00:00-05:00",
+      "end": "2026-08-02T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MDJUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1ag12a6h1g24h422docf8a1n6a",
+      "title": "Church Council",
+      "category": "other",
+      "start": "2026-08-02T14:00:00-05:00",
+      "end": "2026-08-02T15:00:00-05:00",
+      "location": "Room 200",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWFnMTJhNmgxZzI0aDQyMmRvY2Y4YTFuNmEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260805T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-08-05T18:30:00-05:00",
+      "end": "2026-08-05T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA4MDVUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "2mc03di180qeaaeus1htbdqdia",
+      "title": "Move Up Sunday",
+      "category": "worship",
+      "start": "2026-08-09T00:00:00",
+      "end": "2026-08-10T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Mm1jMDNkaTE4MHFlYWFldXMxaHRiZHFkaWEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260809T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-08-09T09:00:00-05:00",
+      "end": "2026-08-09T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA4MDlUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260809T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-08-09T10:00:00-05:00",
+      "end": "2026-08-09T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MDlUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260812T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-08-12T18:00:00-05:00",
+      "end": "2026-08-12T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA4MTJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260812T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-08-12T18:00:00-05:00",
+      "end": "2026-08-12T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA4MTJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260812T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-08-12T18:30:00-05:00",
+      "end": "2026-08-12T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA4MTJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4q0k0ndbtft408qpv3ftd3479r",
+      "title": "Young at Heart",
+      "category": "other",
+      "start": "2026-08-13T00:00:00",
+      "end": "2026-08-14T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NHEwazBuZGJ0ZnQ0MDhxcHYzZnRkMzQ3OXIgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260816T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-08-16T09:00:00-05:00",
+      "end": "2026-08-16T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA4MTZUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260816T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-08-16T10:00:00-05:00",
+      "end": "2026-08-16T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MTZUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260819T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-08-19T18:00:00-05:00",
+      "end": "2026-08-19T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA4MTlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260819T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-08-19T18:00:00-05:00",
+      "end": "2026-08-19T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA4MTlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "6va6lsbqadif1fv01orr22u9vq",
+      "title": "Quarterly Business Mtg",
+      "category": "other",
+      "start": "2026-08-19T18:30:00-05:00",
+      "end": "2026-08-19T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NnZhNmxzYnFhZGlmMWZ2MDFvcnIyMnU5dnEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260819T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-08-19T18:30:00-05:00",
+      "end": "2026-08-19T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA4MTlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260823T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-08-23T09:00:00-05:00",
+      "end": "2026-08-23T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA4MjNUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260823T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-08-23T10:00:00-05:00",
+      "end": "2026-08-23T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MjNUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260826T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-08-26T18:00:00-05:00",
+      "end": "2026-08-26T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA4MjZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260826T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-08-26T18:00:00-05:00",
+      "end": "2026-08-26T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA4MjZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260826T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-08-26T18:30:00-05:00",
+      "end": "2026-08-26T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA4MjZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260830T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-08-30T09:00:00-05:00",
+      "end": "2026-08-30T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA4MzBUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260830T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-08-30T10:00:00-05:00",
+      "end": "2026-08-30T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MzBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260902T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-09-02T18:00:00-05:00",
+      "end": "2026-09-02T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA5MDJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260902T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-09-02T18:00:00-05:00",
+      "end": "2026-09-02T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA5MDJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260902T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-09-02T18:30:00-05:00",
+      "end": "2026-09-02T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MDJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260906T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-09-06T09:00:00-05:00",
+      "end": "2026-09-06T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA5MDZUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260906T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-09-06T10:00:00-05:00",
+      "end": "2026-09-06T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA5MDZUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "50vgu4f1c8s8jb2vbhh6v7ud25",
+      "title": "Church Office Closed",
+      "category": "other",
+      "start": "2026-09-07T00:00:00",
+      "end": "2026-09-08T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NTB2Z3U0ZjFjOHM4amIydmJoaDZ2N3VkMjUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260909T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-09-09T18:00:00-05:00",
+      "end": "2026-09-09T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA5MDlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260909T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-09-09T18:00:00-05:00",
+      "end": "2026-09-09T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA5MDlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260909T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-09-09T18:30:00-05:00",
+      "end": "2026-09-09T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MDlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260913T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-09-13T09:00:00-05:00",
+      "end": "2026-09-13T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA5MTNUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260913T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-09-13T10:00:00-05:00",
+      "end": "2026-09-13T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA5MTNUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "49g7613dok6g6drqjbs23r7tvc",
+      "title": "Deacons Meeting",
+      "category": "other",
+      "start": "2026-09-13T11:00:00-05:00",
+      "end": "2026-09-13T11:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDlnNzYxM2RvazZnNmRycWpiczIzcjd0dmMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260916T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-09-16T18:00:00-05:00",
+      "end": "2026-09-16T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA5MTZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260916T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-09-16T18:00:00-05:00",
+      "end": "2026-09-16T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA5MTZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260916T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-09-16T18:30:00-05:00",
+      "end": "2026-09-16T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MTZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260920T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-09-20T09:00:00-05:00",
+      "end": "2026-09-20T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA5MjBUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260920T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-09-20T10:00:00-05:00",
+      "end": "2026-09-20T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA5MjBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0rsjqkd0vaknuok1pg1767t91c",
+      "title": "SYATP",
+      "category": "other",
+      "start": "2026-09-23T18:00:00-05:00",
+      "end": "2026-09-23T20:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MHJzanFrZDB2YWtudW9rMXBnMTc2N3Q5MWMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260923T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-09-23T18:00:00-05:00",
+      "end": "2026-09-23T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA5MjNUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260923T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-09-23T18:30:00-05:00",
+      "end": "2026-09-23T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MjNUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20260927T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-09-27T09:00:00-05:00",
+      "end": "2026-09-27T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjA5MjdUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20260927T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-09-27T10:00:00-05:00",
+      "end": "2026-09-27T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA5MjdUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260930T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-09-30T18:00:00-05:00",
+      "end": "2026-09-30T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA5MzBUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260930T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-09-30T18:00:00-05:00",
+      "end": "2026-09-30T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA5MzBUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20260930T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-09-30T18:30:00-05:00",
+      "end": "2026-09-30T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MzBUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261004T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-10-04T09:00:00-05:00",
+      "end": "2026-10-04T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjEwMDRUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261004T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-10-04T10:00:00-05:00",
+      "end": "2026-10-04T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEwMDRUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4814ru8hcf87r3hbou8it5revg",
+      "title": "Deacons Meeting",
+      "category": "other",
+      "start": "2026-10-04T11:00:00-05:00",
+      "end": "2026-10-04T12:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDgxNHJ1OGhjZjg3cjNoYm91OGl0NXJldmcgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261007T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-10-07T18:00:00-05:00",
+      "end": "2026-10-07T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEwMDdUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261007T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-10-07T18:00:00-05:00",
+      "end": "2026-10-07T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjEwMDdUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261007T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-10-07T18:30:00-05:00",
+      "end": "2026-10-07T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMDdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261011T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-10-11T09:00:00-05:00",
+      "end": "2026-10-11T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjEwMTFUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261011T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-10-11T10:00:00-05:00",
+      "end": "2026-10-11T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEwMTFUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5vtjqbumf9trk2qj1o99ek5128",
+      "title": "Holiday/Office Closed",
+      "category": "other",
+      "start": "2026-10-12T00:00:00",
+      "end": "2026-10-13T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NXZ0anFidW1mOXRyazJxajFvOTllazUxMjggMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261014T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-10-14T18:00:00-05:00",
+      "end": "2026-10-14T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEwMTRUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261014T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-10-14T18:00:00-05:00",
+      "end": "2026-10-14T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjEwMTRUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261014T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-10-14T18:30:00-05:00",
+      "end": "2026-10-14T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMTRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261018T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-10-18T09:00:00-05:00",
+      "end": "2026-10-18T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjEwMThUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261018T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-10-18T10:00:00-05:00",
+      "end": "2026-10-18T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEwMThUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261021T230000Z",
+      "title": "CBCY Flannel Fest",
+      "category": "other",
+      "start": "2026-10-21T18:00:00-05:00",
+      "end": "2026-10-21T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEwMjFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261021T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-10-21T18:00:00-05:00",
+      "end": "2026-10-21T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjEwMjFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261021T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-10-21T18:30:00-05:00",
+      "end": "2026-10-21T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMjFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261025T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-10-25T09:00:00-05:00",
+      "end": "2026-10-25T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjEwMjVUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261025T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-10-25T10:00:00-05:00",
+      "end": "2026-10-25T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEwMjVUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261028T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-10-28T18:00:00-05:00",
+      "end": "2026-10-28T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEwMjhUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261028T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-10-28T18:00:00-05:00",
+      "end": "2026-10-28T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjEwMjhUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261028T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-10-28T18:30:00-05:00",
+      "end": "2026-10-28T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMjhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0de5k1i261bchslrspadmkvg4e",
+      "title": "Daylight Savings Time Ends (fall back)",
+      "category": "other",
+      "start": "2026-11-01T00:00:00",
+      "end": "2026-11-02T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGRlNWsxaTI2MWJjaHNscnNwYWRta3ZnNGUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261101T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-11-01T09:00:00-06:00",
+      "end": "2026-11-01T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjExMDFUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261101T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-11-01T10:00:00-06:00",
+      "end": "2026-11-01T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMDFUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "6alb4e6gik26tn3pvmd4ovko0s",
+      "title": "Deacons Meeting",
+      "category": "other",
+      "start": "2026-11-01T11:00:00-06:00",
+      "end": "2026-11-01T12:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmFsYjRlNmdpazI2dG4zcHZtZDRvdmtvMHMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261105T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-11-04T18:00:00-06:00",
+      "end": "2026-11-04T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjExMDVUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261105T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-11-04T18:00:00-06:00",
+      "end": "2026-11-04T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjExMDVUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261105T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-11-04T18:30:00-06:00",
+      "end": "2026-11-04T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMDVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261108T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-11-08T09:00:00-06:00",
+      "end": "2026-11-08T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjExMDhUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261108T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-11-08T10:00:00-06:00",
+      "end": "2026-11-08T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMDhUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261112T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-11-11T18:00:00-06:00",
+      "end": "2026-11-11T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjExMTJUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261112T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-11-11T18:00:00-06:00",
+      "end": "2026-11-11T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjExMTJUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261112T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-11-11T18:30:00-06:00",
+      "end": "2026-11-11T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMTJUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261115T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-11-15T09:00:00-06:00",
+      "end": "2026-11-15T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjExMTVUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261115T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-11-15T10:00:00-06:00",
+      "end": "2026-11-15T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMTVUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4e35rph5kh5l92gbv2l1n1eekg",
+      "title": "Thanksgiving Meal/NM Fellowship",
+      "category": "other",
+      "start": "2026-11-15T17:00:00-06:00",
+      "end": "2026-11-15T17:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGUzNXJwaDVraDVsOTJnYnYybDFuMWVla2cgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261119T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-11-18T18:00:00-06:00",
+      "end": "2026-11-18T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjExMTlUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261119T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-11-18T18:00:00-06:00",
+      "end": "2026-11-18T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjExMTlUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3j509pj1du8ddk3nrnoak6n0l9",
+      "title": "Quarterly Business Mtg",
+      "category": "other",
+      "start": "2026-11-18T18:30:00-06:00",
+      "end": "2026-11-18T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2o1MDlwajFkdThkZGszbnJub2FrNm4wbDkgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261119T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-11-18T18:30:00-06:00",
+      "end": "2026-11-18T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMTlUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261122T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-11-22T09:00:00-06:00",
+      "end": "2026-11-22T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjExMjJUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261122T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-11-22T10:00:00-06:00",
+      "end": "2026-11-22T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMjJUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1m5jcpvk75ai577bu7244jf7va",
+      "title": "Church Office Closed",
+      "category": "other",
+      "start": "2026-11-25T00:00:00",
+      "end": "2026-11-26T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MW01amNwdms3NWFpNTc3YnU3MjQ0amY3dmEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261126T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-11-25T18:00:00-06:00",
+      "end": "2026-11-25T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjExMjZUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261126T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-11-25T18:30:00-06:00",
+      "end": "2026-11-25T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMjZUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5u51t2vl9git93kbkmc6m8nmmi",
+      "title": "Lord's Supper",
+      "category": "other",
+      "start": "2026-11-29T00:00:00",
+      "end": "2026-11-30T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NXU1MXQydmw5Z2l0OTNrYmttYzZtOG5tbWkgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261129T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-11-29T09:00:00-06:00",
+      "end": "2026-11-29T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjExMjlUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261129T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-11-29T10:00:00-06:00",
+      "end": "2026-11-29T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMjlUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261203T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-12-02T18:00:00-06:00",
+      "end": "2026-12-02T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEyMDNUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261203T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-12-02T18:00:00-06:00",
+      "end": "2026-12-02T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjEyMDNUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261203T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-12-02T18:30:00-06:00",
+      "end": "2026-12-02T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEyMDNUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261206T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-12-06T09:00:00-06:00",
+      "end": "2026-12-06T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjEyMDZUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261206T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-12-06T10:00:00-06:00",
+      "end": "2026-12-06T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEyMDZUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "66hbrep70r12ci5goiifoapt3e",
+      "title": "Deacons Meeting",
+      "category": "other",
+      "start": "2026-12-06T11:00:00-06:00",
+      "end": "2026-12-06T12:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NjZoYnJlcDcwcjEyY2k1Z29paWZvYXB0M2UgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261210T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-12-09T18:00:00-06:00",
+      "end": "2026-12-09T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEyMTBUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261210T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-12-09T18:00:00-06:00",
+      "end": "2026-12-09T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjEyMTBUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261210T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-12-09T18:30:00-06:00",
+      "end": "2026-12-09T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEyMTBUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261213T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-12-13T09:00:00-06:00",
+      "end": "2026-12-13T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjEyMTNUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261213T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-12-13T10:00:00-06:00",
+      "end": "2026-12-13T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEyMTNUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261217T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-12-16T18:00:00-06:00",
+      "end": "2026-12-16T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEyMTdUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20261217T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2026-12-16T18:00:00-06:00",
+      "end": "2026-12-16T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjEyMTdUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261217T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-12-16T18:30:00-06:00",
+      "end": "2026-12-16T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEyMTdUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261220T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-12-20T09:00:00-06:00",
+      "end": "2026-12-20T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjEyMjBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261220T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-12-20T10:00:00-06:00",
+      "end": "2026-12-20T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEyMjBUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "6efhrn8jr4nqp5kd68ad87rrvm",
+      "title": "Church Office Closed",
+      "category": "other",
+      "start": "2026-12-22T00:00:00",
+      "end": "2026-12-23T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmVmaHJuOGpyNG5xcDVrZDY4YWQ4N3Jydm0gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7vtan832b0ebrrbf3v763104lq",
+      "title": "Church Office Closed",
+      "category": "other",
+      "start": "2026-12-23T00:00:00",
+      "end": "2026-12-24T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N3Z0YW44MzJiMGVicnJiZjN2NzYzMTA0bHEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261224T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-12-23T18:00:00-06:00",
+      "end": "2026-12-23T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEyMjRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261224T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-12-23T18:30:00-06:00",
+      "end": "2026-12-23T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEyMjRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20261227T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2026-12-27T09:00:00-06:00",
+      "end": "2026-12-27T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNjEyMjdUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20261227T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2026-12-27T10:00:00-06:00",
+      "end": "2026-12-27T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEyMjdUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3jmvdi10g08k51g8hugu03jsm1",
+      "title": "Church Office Closed",
+      "category": "other",
+      "start": "2026-12-30T00:00:00",
+      "end": "2026-12-31T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ptdmRpMTBnMDhrNTFnOGh1Z3UwM2pzbTEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261231T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2026-12-30T18:00:00-06:00",
+      "end": "2026-12-30T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEyMzFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20261231T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2026-12-30T18:30:00-06:00",
+      "end": "2026-12-30T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEyMzFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "2mrquj06070g2m1jcdc5qp58ec",
+      "title": "Church Office Closed",
+      "category": "other",
+      "start": "2026-12-31T00:00:00",
+      "end": "2027-01-01T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Mm1ycXVqMDYwNzBnMm0xamNkYzVxcDU4ZWMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270103T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-01-03T09:00:00-06:00",
+      "end": "2027-01-03T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAxMDNUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270103T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-01-03T10:00:00-06:00",
+      "end": "2027-01-03T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMDNUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270107T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-01-06T18:00:00-06:00",
+      "end": "2027-01-06T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAxMDdUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270107T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-01-06T18:00:00-06:00",
+      "end": "2027-01-06T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAxMDdUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270107T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-01-06T18:30:00-06:00",
+      "end": "2027-01-06T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMDdUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270110T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-01-10T09:00:00-06:00",
+      "end": "2027-01-10T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAxMTBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270110T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-01-10T10:00:00-06:00",
+      "end": "2027-01-10T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMTBUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270114T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-01-13T18:00:00-06:00",
+      "end": "2027-01-13T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAxMTRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270114T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-01-13T18:00:00-06:00",
+      "end": "2027-01-13T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAxMTRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270114T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-01-13T18:30:00-06:00",
+      "end": "2027-01-13T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMTRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270117T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-01-17T09:00:00-06:00",
+      "end": "2027-01-17T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAxMTdUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270117T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-01-17T10:00:00-06:00",
+      "end": "2027-01-17T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMTdUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270121T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-01-20T18:00:00-06:00",
+      "end": "2027-01-20T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAxMjFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270121T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-01-20T18:00:00-06:00",
+      "end": "2027-01-20T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAxMjFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270121T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-01-20T18:30:00-06:00",
+      "end": "2027-01-20T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMjFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270124T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-01-24T09:00:00-06:00",
+      "end": "2027-01-24T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAxMjRUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270124T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-01-24T10:00:00-06:00",
+      "end": "2027-01-24T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMjRUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270128T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-01-27T18:00:00-06:00",
+      "end": "2027-01-27T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAxMjhUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270128T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-01-27T18:00:00-06:00",
+      "end": "2027-01-27T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAxMjhUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270128T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-01-27T18:30:00-06:00",
+      "end": "2027-01-27T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMjhUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270131T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-01-31T09:00:00-06:00",
+      "end": "2027-01-31T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAxMzFUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270131T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-01-31T10:00:00-06:00",
+      "end": "2027-01-31T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMzFUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270204T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-02-03T18:00:00-06:00",
+      "end": "2027-02-03T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAyMDRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270204T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-02-03T18:00:00-06:00",
+      "end": "2027-02-03T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAyMDRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270204T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-02-03T18:30:00-06:00",
+      "end": "2027-02-03T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMDRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270207T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-02-07T09:00:00-06:00",
+      "end": "2027-02-07T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAyMDdUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270207T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-02-07T10:00:00-06:00",
+      "end": "2027-02-07T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAyMDdUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270211T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-02-10T18:00:00-06:00",
+      "end": "2027-02-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAyMTFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270211T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-02-10T18:00:00-06:00",
+      "end": "2027-02-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAyMTFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270211T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-02-10T18:30:00-06:00",
+      "end": "2027-02-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMTFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270214T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-02-14T09:00:00-06:00",
+      "end": "2027-02-14T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAyMTRUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270214T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-02-14T10:00:00-06:00",
+      "end": "2027-02-14T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAyMTRUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270218T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-02-17T18:00:00-06:00",
+      "end": "2027-02-17T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAyMThUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270218T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-02-17T18:00:00-06:00",
+      "end": "2027-02-17T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAyMThUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270218T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-02-17T18:30:00-06:00",
+      "end": "2027-02-17T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMThUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270221T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-02-21T09:00:00-06:00",
+      "end": "2027-02-21T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAyMjFUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270221T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-02-21T10:00:00-06:00",
+      "end": "2027-02-21T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAyMjFUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270225T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-02-24T18:00:00-06:00",
+      "end": "2027-02-24T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAyMjVUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270225T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-02-24T18:00:00-06:00",
+      "end": "2027-02-24T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAyMjVUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270225T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-02-24T18:30:00-06:00",
+      "end": "2027-02-24T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMjVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270228T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-02-28T09:00:00-06:00",
+      "end": "2027-02-28T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAyMjhUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270228T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-02-28T10:00:00-06:00",
+      "end": "2027-02-28T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAyMjhUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270304T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-03-03T18:00:00-06:00",
+      "end": "2027-03-03T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAzMDRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270304T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-03-03T18:00:00-06:00",
+      "end": "2027-03-03T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAzMDRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270304T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-03-03T18:30:00-06:00",
+      "end": "2027-03-03T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMDRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270307T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-03-07T09:00:00-06:00",
+      "end": "2027-03-07T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAzMDdUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270307T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-03-07T10:00:00-06:00",
+      "end": "2027-03-07T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAzMDdUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270311T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-03-10T18:00:00-06:00",
+      "end": "2027-03-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAzMTFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270311T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-03-10T18:00:00-06:00",
+      "end": "2027-03-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAzMTFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270311T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-03-10T18:30:00-06:00",
+      "end": "2027-03-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMTFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270314T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-03-14T09:00:00-05:00",
+      "end": "2027-03-14T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAzMTRUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270314T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-03-14T10:00:00-05:00",
+      "end": "2027-03-14T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAzMTRUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270317T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-03-17T18:00:00-05:00",
+      "end": "2027-03-17T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAzMTdUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270317T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-03-17T18:00:00-05:00",
+      "end": "2027-03-17T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAzMTdUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270317T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-03-17T18:30:00-05:00",
+      "end": "2027-03-17T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMTdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270321T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-03-21T09:00:00-05:00",
+      "end": "2027-03-21T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAzMjFUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270321T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-03-21T10:00:00-05:00",
+      "end": "2027-03-21T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAzMjFUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270324T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-03-24T18:00:00-05:00",
+      "end": "2027-03-24T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAzMjRUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270324T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-03-24T18:00:00-05:00",
+      "end": "2027-03-24T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAzMjRUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270324T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-03-24T18:30:00-05:00",
+      "end": "2027-03-24T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMjRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270328T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-03-28T09:00:00-05:00",
+      "end": "2027-03-28T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzAzMjhUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270328T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-03-28T10:00:00-05:00",
+      "end": "2027-03-28T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAzMjhUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270331T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-03-31T18:00:00-05:00",
+      "end": "2027-03-31T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAzMzFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270331T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-03-31T18:00:00-05:00",
+      "end": "2027-03-31T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAzMzFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270331T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-03-31T18:30:00-05:00",
+      "end": "2027-03-31T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMzFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270404T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-04-04T09:00:00-05:00",
+      "end": "2027-04-04T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA0MDRUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270404T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-04-04T10:00:00-05:00",
+      "end": "2027-04-04T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA0MDRUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270407T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-04-07T18:00:00-05:00",
+      "end": "2027-04-07T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA0MDdUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270407T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-04-07T18:00:00-05:00",
+      "end": "2027-04-07T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA0MDdUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270407T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-04-07T18:30:00-05:00",
+      "end": "2027-04-07T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA0MDdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270411T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-04-11T09:00:00-05:00",
+      "end": "2027-04-11T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA0MTFUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270411T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-04-11T10:00:00-05:00",
+      "end": "2027-04-11T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA0MTFUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270414T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-04-14T18:00:00-05:00",
+      "end": "2027-04-14T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA0MTRUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270414T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-04-14T18:00:00-05:00",
+      "end": "2027-04-14T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA0MTRUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270414T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-04-14T18:30:00-05:00",
+      "end": "2027-04-14T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA0MTRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270418T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-04-18T09:00:00-05:00",
+      "end": "2027-04-18T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA0MThUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270418T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-04-18T10:00:00-05:00",
+      "end": "2027-04-18T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA0MThUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270421T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-04-21T18:00:00-05:00",
+      "end": "2027-04-21T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA0MjFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270421T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-04-21T18:00:00-05:00",
+      "end": "2027-04-21T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA0MjFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270421T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-04-21T18:30:00-05:00",
+      "end": "2027-04-21T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA0MjFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270425T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-04-25T09:00:00-05:00",
+      "end": "2027-04-25T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA0MjVUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270425T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-04-25T10:00:00-05:00",
+      "end": "2027-04-25T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA0MjVUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270428T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-04-28T18:00:00-05:00",
+      "end": "2027-04-28T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA0MjhUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270428T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-04-28T18:00:00-05:00",
+      "end": "2027-04-28T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA0MjhUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270428T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-04-28T18:30:00-05:00",
+      "end": "2027-04-28T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA0MjhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270502T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-05-02T09:00:00-05:00",
+      "end": "2027-05-02T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA1MDJUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270502T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-05-02T10:00:00-05:00",
+      "end": "2027-05-02T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA1MDJUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270505T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-05-05T18:00:00-05:00",
+      "end": "2027-05-05T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA1MDVUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270505T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-05-05T18:00:00-05:00",
+      "end": "2027-05-05T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA1MDVUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270505T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-05-05T18:30:00-05:00",
+      "end": "2027-05-05T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MDVUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270509T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-05-09T09:00:00-05:00",
+      "end": "2027-05-09T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA1MDlUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270509T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-05-09T10:00:00-05:00",
+      "end": "2027-05-09T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA1MDlUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270512T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-05-12T18:00:00-05:00",
+      "end": "2027-05-12T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA1MTJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270512T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-05-12T18:00:00-05:00",
+      "end": "2027-05-12T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA1MTJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270512T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-05-12T18:30:00-05:00",
+      "end": "2027-05-12T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MTJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270516T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-05-16T09:00:00-05:00",
+      "end": "2027-05-16T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA1MTZUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270516T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-05-16T10:00:00-05:00",
+      "end": "2027-05-16T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA1MTZUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270519T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-05-19T18:00:00-05:00",
+      "end": "2027-05-19T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA1MTlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270519T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-05-19T18:00:00-05:00",
+      "end": "2027-05-19T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA1MTlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270519T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-05-19T18:30:00-05:00",
+      "end": "2027-05-19T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MTlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270523T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-05-23T09:00:00-05:00",
+      "end": "2027-05-23T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA1MjNUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270523T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-05-23T10:00:00-05:00",
+      "end": "2027-05-23T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA1MjNUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270526T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-05-26T18:00:00-05:00",
+      "end": "2027-05-26T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA1MjZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270526T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-05-26T18:00:00-05:00",
+      "end": "2027-05-26T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA1MjZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270526T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-05-26T18:30:00-05:00",
+      "end": "2027-05-26T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MjZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270530T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-05-30T09:00:00-05:00",
+      "end": "2027-05-30T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA1MzBUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270530T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-05-30T10:00:00-05:00",
+      "end": "2027-05-30T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA1MzBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270602T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-06-02T18:00:00-05:00",
+      "end": "2027-06-02T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA2MDJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270602T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-06-02T18:00:00-05:00",
+      "end": "2027-06-02T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA2MDJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270602T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-06-02T18:30:00-05:00",
+      "end": "2027-06-02T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA2MDJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    }
+  ]
 }
