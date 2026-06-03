@@ -14,11 +14,10 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+DEFAULT_CAL_ID = "10e4a4c22c3fe6511ddf58df1f8265919d883b8fe311d12266cd550089657535@group.calendar.google.com"
+
 API_KEY = os.environ.get("GOOGLE_CAL_API_KEY", "").strip()
-CAL_ID = os.environ.get(
-    "GOOGLE_CAL_ID",
-    "10e4a4c22c3fe6511ddf58df1f8265919d883b8fe311d12266cd550089657535@group.calendar.google.com",
-).strip()
+CAL_ID = os.environ.get("GOOGLE_CAL_ID", "").strip() or DEFAULT_CAL_ID
 
 OUTPUT = Path(__file__).resolve().parent.parent / "data" / "events.json"
 
