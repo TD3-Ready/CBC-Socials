@@ -72,22 +72,12 @@ export function Agenda({ events, filter, onOpen }: Props) {
 
   const title =
     filter === "all" ? "Upcoming" : `Upcoming · ${CATEGORY_LABEL[filter as Category]}`;
-  const subtitle = `Next ${horizonDays} days`;
 
   return (
     <aside className="bg-card border border-line rounded-[18px] shadow-soft p-5 md:p-6 self-start lg:sticky lg:top-6">
       <div className="mb-5">
-        <div className="flex items-baseline justify-between gap-3 flex-wrap mb-2">
+        <div className="mb-2">
           <AnimatedTitle text={title} filter={filter} />
-          <motion.span
-            key={`subtitle-${filter}`}
-            initial={{ opacity: 0, y: 4 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.18, duration: 0.35, ease: [0.2, 0.7, 0.2, 1] }}
-            className="text-[10.5px] uppercase tracking-[0.12em] text-ink-3 font-semibold"
-          >
-            {subtitle}
-          </motion.span>
         </div>
         <motion.div
           key={`underline-${filter}`}
