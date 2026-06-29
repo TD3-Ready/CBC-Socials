@@ -1,37 +1,7 @@
 {
-  "updated": "2026-06-29T00:19:33Z",
-  "count": 329,
+  "updated": "2026-06-29T05:12:44Z",
+  "count": 326,
   "events": [
-    {
-      "id": "0e4oplbc9f961qdhiulb9tejh7_20260429T230000Z",
-      "title": "Speak Tour",
-      "category": "other",
-      "start": "2026-04-29T18:00:00-05:00",
-      "end": "2026-04-29T20:00:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MGU0b3BsYmM5Zjk2MXFkaGl1bGI5dGVqaDdfMjAyNjA0MjlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "47psgclrjk4h1hc3t195nllikv_20260429T230000Z",
-      "title": "Kids Night",
-      "category": "youth",
-      "start": "2026-04-29T18:00:00-05:00",
-      "end": "2026-04-29T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NDdwc2djbHJqazRoMWhjM3QxOTVubGxpa3ZfMjAyNjA0MjlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "jnrcf45av0rav0le5mdur0tg6h_20260429T233000Z",
-      "title": "Wednesday Night Church",
-      "category": "other",
-      "start": "2026-04-29T18:30:00-05:00",
-      "end": "2026-04-29T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA0MjlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
     {
       "id": "42k1mcqqo4d0a6vf2co6bjv9m7",
       "title": "Reserved/OFH",
