@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T23:16:10Z",
-  "count": 326,
+  "updated": "2026-07-08T01:00:49Z",
+  "count": 327,
   "events": [
     {
       "id": "2rdadfublhqtgqcqdjfiosj39a",
@@ -3261,6 +3261,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA3MDdUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270707T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-07-07T18:30:00-05:00",
+      "end": "2027-07-07T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA3MDdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     }
   ]
 }
