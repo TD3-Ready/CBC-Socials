@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-17T04:27:48Z",
-  "count": 325,
+  "updated": "2026-07-17T06:57:58Z",
+  "count": 324,
   "events": [
-    {
-      "id": "6at28s9cvcleph5h52gr64p4am",
-      "title": "Reserved FLC/4pm",
-      "category": "outreach",
-      "start": "2026-05-17T00:00:00",
-      "end": "2026-05-18T00:00:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NmF0MjhzOWN2Y2xlcGg1aDUyZ3I2NHA0YW0gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
     {
       "id": "0uko4kq6m360bjv6ojm7nngck3",
       "title": "Quarterly Business Mtg",
