@@ -1,17 +1,7 @@
 {
-  "updated": "2026-07-20T00:05:19Z",
-  "count": 326,
+  "updated": "2026-07-20T04:05:43Z",
+  "count": 325,
   "events": [
-    {
-      "id": "0uko4kq6m360bjv6ojm7nngck3",
-      "title": "Quarterly Business Mtg",
-      "category": "other",
-      "start": "2026-05-20T18:30:00-05:00",
-      "end": "2026-05-20T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MHVrbzRrcTZtMzYwYmp2Nm9qbTdubmdjazMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
     {
       "id": "2jetq3nvq3semme3vftcrb8ta2",
       "title": "Beach Retreat",
