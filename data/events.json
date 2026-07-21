@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T22:05:47Z",
-  "count": 325,
+  "updated": "2026-07-21T23:12:42Z",
+  "count": 327,
   "events": [
     {
       "id": "2jetq3nvq3semme3vftcrb8ta2",
@@ -3251,6 +3251,26 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA3MThUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270721T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-07-21T18:00:00-05:00",
+      "end": "2027-07-21T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA3MjFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270721T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-07-21T18:00:00-05:00",
+      "end": "2027-07-21T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA3MjFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     }
   ]
 }
