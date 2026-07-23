@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T11:58:51Z",
-  "count": 330,
+  "updated": "2026-07-23T14:25:13Z",
+  "count": 329,
   "events": [
     {
       "id": "2jetq3nvq3semme3vftcrb8ta2",
@@ -616,21 +616,11 @@
       "id": "1ag12a6h1g24h422docf8a1n6a",
       "title": "Church Council",
       "category": "other",
-      "start": "2026-08-02T14:00:00-05:00",
-      "end": "2026-08-02T15:00:00-05:00",
+      "start": "2026-08-02T11:30:00-05:00",
+      "end": "2026-08-02T12:30:00-05:00",
       "location": "Room 200",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=MWFnMTJhNmgxZzI0aDQyMmRvY2Y4YTFuNmEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
-    {
-      "id": "2g5611bbcok87ho0q4ns178v45",
-      "title": "Church Council",
-      "category": "other",
-      "start": "2026-08-02T14:00:00-05:00",
-      "end": "2026-08-02T15:00:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=Mmc1NjExYmJjb2s4N2hvMHE0bnMxNzh2NDUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20260805T233000Z",
@@ -796,8 +786,8 @@
       "id": "4fjkqsamsbb6u41uneej2fpeic",
       "title": "Church Committee Meeting",
       "category": "other",
-      "start": "2026-08-23T16:00:00-05:00",
-      "end": "2026-08-23T17:00:00-05:00",
+      "start": "2026-08-23T11:30:00-05:00",
+      "end": "2026-08-23T12:30:00-05:00",
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=NGZqa3FzYW1zYmI2dTQxdW5lZWoyZnBlaWMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
