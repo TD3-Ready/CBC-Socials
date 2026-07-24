@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T18:46:15Z",
-  "count": 327,
+  "updated": "2026-07-24T20:22:49Z",
+  "count": 328,
   "events": [
     {
       "id": "2jetq3nvq3semme3vftcrb8ta2",
@@ -661,6 +661,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA4MTJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "8op4v23an1hnv2r2g2g6iuj0pg_20260812T230000Z",
+      "title": "HitPit",
+      "category": "other",
+      "start": "2026-08-12T18:00:00-05:00",
+      "end": "2026-08-12T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=OG9wNHYyM2FuMWhudjJyMmcyZzZpdWowcGdfMjAyNjA4MTJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20260812T233000Z",
