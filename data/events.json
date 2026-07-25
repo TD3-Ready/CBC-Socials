@@ -1,27 +1,7 @@
 {
-  "updated": "2026-07-25T02:55:22Z",
-  "count": 328,
+  "updated": "2026-07-25T05:46:17Z",
+  "count": 326,
   "events": [
-    {
-      "id": "2jetq3nvq3semme3vftcrb8ta2",
-      "title": "Beach Retreat",
-      "category": "other",
-      "start": "2026-05-22T00:00:00",
-      "end": "2026-05-26T00:00:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MmpldHEzbnZxM3NlbW1lM3ZmdGNyYjh0YTIgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
-    {
-      "id": "2ted6ckc05imvmegsbttprgk7q",
-      "title": "Church office closed",
-      "category": "other",
-      "start": "2026-05-25T00:00:00",
-      "end": "2026-05-26T00:00:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MnRlZDZja2MwNWltdm1lZ3NidHRwcmdrN3EgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
     {
       "id": "1ui2s1hikkrvmjok17vr9a9b8p",
       "title": "Reserved OFH",
