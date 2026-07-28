@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T20:17:26Z",
-  "count": 328,
+  "updated": "2026-07-28T21:40:04Z",
+  "count": 329,
   "events": [
     {
       "id": "398n2e9766us43qdnmsm52p87i",
@@ -1371,6 +1371,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMDhUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "74uj1bof0p9rvlcfegr8lbopke",
+      "title": "Church Council",
+      "category": "other",
+      "start": "2026-11-08T11:00:00-06:00",
+      "end": "2026-11-08T12:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NzR1ajFib2YwcDlydmxjZmVncjhsYm9wa2UgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20261112T000000Z",
