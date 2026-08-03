@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T13:58:12Z",
-  "count": 327,
+  "updated": "2026-08-03T16:32:54Z",
+  "count": 332,
   "events": [
     {
       "id": "1p2nn3sq9gv6h36dv9u4ur95hn",
@@ -493,6 +493,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=MWFnMTJhNmgxZzI0aDQyMmRvY2Y4YTFuNmEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
+      "id": "34ih7trgn5trlaffdb8e9aobv9",
+      "title": "BCHS Teacher Fellowship Breakfast",
+      "category": "other",
+      "start": "2026-08-04T07:15:00-05:00",
+      "end": "2026-08-04T08:15:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzRpaDd0cmduNXRybGFmZmRiOGU5YW9idjkgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20260805T233000Z",
       "title": "Wednesday Night Church",
       "category": "other",
@@ -553,6 +563,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MDlUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "2a0mageeaapl4uqf3f53vgqc29",
+      "title": "Deacon's Meeting",
+      "category": "other",
+      "start": "2026-08-09T11:00:00-05:00",
+      "end": "2026-08-09T11:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MmEwbWFnZWVhYXBsNHVxZjNmNTN2Z3FjMjkgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20260812T230000Z",
       "title": "CBCY MidWeek at the HitPit",
       "category": "other",
@@ -571,16 +591,6 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA4MTJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "8op4v23an1hnv2r2g2g6iuj0pg_20260812T230000Z",
-      "title": "HitPit",
-      "category": "other",
-      "start": "2026-08-12T18:00:00-05:00",
-      "end": "2026-08-12T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=OG9wNHYyM2FuMWhudjJyMmcyZzZpdWowcGdfMjAyNjA4MTJUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20260812T233000Z",
@@ -721,6 +731,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA4MjZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0t8t4g4i3429mih8ru364c7ch6",
+      "title": "Feed the Football Team",
+      "category": "other",
+      "start": "2026-08-27T16:30:00-05:00",
+      "end": "2026-08-27T17:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MHQ4dDRnNGkzNDI5bWloOHJ1MzY0YzdjaDYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260830T140000Z",
@@ -943,6 +963,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MjNUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "6re9ucda238rv6b2bui7grqo6f",
+      "title": "Feed the Football Team",
+      "category": "other",
+      "start": "2026-09-24T16:30:00-05:00",
+      "end": "2026-09-24T17:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NnJlOXVjZGEyMzhydjZiMmJ1aTdncnFvNmYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260927T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -991,6 +1021,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MzBUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0sqqnkhu95r453pbjtppelfe3r",
+      "title": "Homecoming Sweet Tea Outreach",
+      "category": "outreach",
+      "start": "2026-10-01T10:00:00-05:00",
+      "end": "2026-10-01T12:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MHNxcW5raHU5NXI0NTNwYmp0cHBlbGZlM3IgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261004T140000Z",
@@ -1161,6 +1201,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMjFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4f6us7bf31a2i353o6uk3p1llq",
+      "title": "Feed the Football Team",
+      "category": "other",
+      "start": "2026-10-22T16:30:00-05:00",
+      "end": "2026-10-22T17:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGY2dXM3YmYzMWEyaTM1M282dWszcDFsbHEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261025T140000Z",
