@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-09T19:35:52Z",
-  "count": 331,
+  "updated": "2026-08-09T20:04:42Z",
+  "count": 330,
   "events": [
-    {
-      "id": "064n1g15ig7nbl2u7mn2le1us4_20260610T170000Z",
-      "title": "Vacation Bible School",
-      "category": "study",
-      "start": "2026-06-10T12:00:00-05:00",
-      "end": "2026-06-10T15:00:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MDY0bjFnMTVpZzduYmwydTdtbjJsZTF1czRfMjAyNjA2MTBUMTcwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
     {
       "id": "_8co3ic218oq30b9m75234b9k6srk2ba26t0jgb9i6soj0c9n88p44ci584_20260610T230000Z",
       "title": "CBCY Summer Groups",
