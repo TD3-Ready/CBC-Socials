@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T18:03:59Z",
-  "count": 329,
+  "updated": "2026-08-10T19:17:15Z",
+  "count": 325,
   "events": [
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260614T140000Z",
@@ -1413,26 +1413,6 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=MW01amNwdms3NWFpNTc3YnU3MjQ0amY3dmEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
-      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261126T000000Z",
-      "title": "CBCY MidWeek at the HitPit",
-      "category": "other",
-      "start": "2026-11-25T18:00:00-06:00",
-      "end": "2026-11-25T19:30:00-06:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjExMjZUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "jnrcf45av0rav0le5mdur0tg6h_20261126T003000Z",
-      "title": "Wednesday Night Church",
-      "category": "other",
-      "start": "2026-11-25T18:30:00-06:00",
-      "end": "2026-11-25T19:30:00-06:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMjZUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
       "id": "5u51t2vl9git93kbkmc6m8nmmi",
       "title": "Lord's Supper",
       "category": "other",
@@ -1564,7 +1544,7 @@
     },
     {
       "id": "3fqc1k7affk2e18hcl41gshem3_20261213T160000Z",
-      "title": "Morning Worship",
+      "title": "Christmas Cantata",
       "category": "worship",
       "start": "2026-12-13T10:00:00-06:00",
       "end": "2026-12-13T11:00:00-06:00",
@@ -1643,16 +1623,6 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=N3Z0YW44MzJiMGVicnJiZjN2NzYzMTA0bHEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
-      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261224T000000Z",
-      "title": "CBCY MidWeek at the HitPit",
-      "category": "other",
-      "start": "2026-12-23T18:00:00-06:00",
-      "end": "2026-12-23T19:30:00-06:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEyMjRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20261224T003000Z",
       "title": "Wednesday Night Church",
       "category": "other",
@@ -1691,16 +1661,6 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ptdmRpMTBnMDhrNTFnOGh1Z3UwM2pzbTEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
-    {
-      "id": "1l2opn8ojekaqg8atadp4h3hbm_20261231T000000Z",
-      "title": "CBCY MidWeek at the HitPit",
-      "category": "other",
-      "start": "2026-12-30T18:00:00-06:00",
-      "end": "2026-12-30T19:30:00-06:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjEyMzFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20261231T003000Z",
