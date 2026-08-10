@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-09T23:34:16Z",
-  "count": 330,
+  "updated": "2026-08-10T00:35:19Z",
+  "count": 329,
   "events": [
-    {
-      "id": "_8co3ic218oq30b9m75234b9k6srk2ba26t0jgb9i6soj0c9n88p44ci584_20260610T230000Z",
-      "title": "CBCY Summer Groups",
-      "category": "other",
-      "start": "2026-06-10T18:00:00-05:00",
-      "end": "2026-06-10T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=XzhjbzNpYzIxOG9xMzBiOW03NTIzNGI5azZzcmsyYmEyNnQwamdiOWk2c29qMGM5bjg4cDQ0Y2k1ODRfMjAyNjA2MTBUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "jnrcf45av0rav0le5mdur0tg6h_20260610T233000Z",
-      "title": "Wednesday Night Church",
-      "category": "other",
-      "start": "2026-06-10T18:30:00-05:00",
-      "end": "2026-06-10T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA2MTBUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260614T140000Z",
       "title": "Sunday School",
@@ -691,6 +671,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MzBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "9cagpu5dbbjbcde7380dqp5ffo",
+      "title": "Pastor Search Town Hall",
+      "category": "other",
+      "start": "2026-08-30T17:00:00-05:00",
+      "end": "2026-08-30T19:00:00-05:00",
+      "location": "Fellowship Hall",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=OWNhZ3B1NWRiYmpiY2RlNzM4MGRxcDVmZm8gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20260902T230000Z",
