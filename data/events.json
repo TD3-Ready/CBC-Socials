@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T22:47:33Z",
-  "count": 330,
+  "updated": "2026-08-11T23:43:54Z",
+  "count": 333,
   "events": [
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260614T140000Z",
@@ -3301,6 +3301,36 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA4MDhUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20270811T230000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-08-11T18:00:00-05:00",
+      "end": "2027-08-11T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzA4MTFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270811T230000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-08-11T18:00:00-05:00",
+      "end": "2027-08-11T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzA4MTFUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20270811T233000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-08-11T18:30:00-05:00",
+      "end": "2027-08-11T19:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA4MTFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     }
   ]
 }
