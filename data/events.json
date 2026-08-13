@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-13T15:15:36Z",
-  "count": 332,
+  "updated": "2026-08-13T16:25:03Z",
+  "count": 331,
   "events": [
-    {
-      "id": "3fqc1k7affk2e18hcl41gshem3_20260614T150000Z",
-      "title": "Morning Worship",
-      "category": "worship",
-      "start": "2026-06-14T10:00:00-05:00",
-      "end": "2026-06-14T11:00:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA2MTRUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
     {
       "id": "6um57vlspdq389tmr2kkjsvmbf",
       "title": "Transition Team Mtg",
