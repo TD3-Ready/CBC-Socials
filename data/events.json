@@ -1,27 +1,7 @@
 {
-  "updated": "2026-08-16T23:45:50Z",
-  "count": 333,
+  "updated": "2026-08-17T01:26:54Z",
+  "count": 331,
   "events": [
-    {
-      "id": "6um57vlspdq389tmr2kkjsvmbf",
-      "title": "Transition Team Mtg",
-      "category": "other",
-      "start": "2026-06-17T18:00:00-05:00",
-      "end": "2026-06-17T20:00:00-05:00",
-      "location": "Fellowship Hall",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NnVtNTd2bHNwZHEzODl0bXIya2tqc3ZtYmYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
-    {
-      "id": "jnrcf45av0rav0le5mdur0tg6h_20260617T233000Z",
-      "title": "Wednesday Night Church",
-      "category": "other",
-      "start": "2026-06-17T18:30:00-05:00",
-      "end": "2026-06-17T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA2MTdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
     {
       "id": "5esm4q7lq39fviapngrc6a8rbf",
       "title": "Father's Day",
