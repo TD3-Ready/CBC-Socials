@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T13:53:24Z",
-  "count": 331,
+  "updated": "2026-08-17T14:30:50Z",
+  "count": 333,
   "events": [
     {
       "id": "5esm4q7lq39fviapngrc6a8rbf",
@@ -573,6 +573,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=NGZqa3FzYW1zYmI2dTQxdW5lZWoyZnBlaWMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
+      "id": "6o99k8mu63il95vlm3eophse26",
+      "title": "Deacon Ordination Council",
+      "category": "other",
+      "start": "2026-08-23T15:00:00-05:00",
+      "end": "2026-08-23T16:00:00-05:00",
+      "location": "Fellowship Hall",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Nm85OWs4bXU2M2lsOTV2bG0zZW9waHNlMjYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20260826T230000Z",
       "title": "CBCY MidWeek at the HitPit",
       "category": "other",
@@ -631,6 +641,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MzBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "367mbumi91lm3ali51nfjumfj8",
+      "title": "Deacon Ordination",
+      "category": "other",
+      "start": "2026-08-30T11:00:00-05:00",
+      "end": "2026-08-30T11:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzY3bWJ1bWk5MWxtM2FsaTUxbmZqdW1majggMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "9cagpu5dbbjbcde7380dqp5ffo",
