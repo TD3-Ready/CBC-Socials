@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T17:41:43Z",
-  "count": 350,
+  "updated": "2026-08-19T18:01:06Z",
+  "count": 351,
   "events": [
     {
       "id": "5esm4q7lq39fviapngrc6a8rbf",
@@ -324,7 +324,7 @@
     },
     {
       "id": "7a105g6fl3ikuvmknb8gbmid6o",
-      "title": "Deacon Election",
+      "title": "Deacon Nomination",
       "category": "other",
       "start": "2026-08-02T00:00:00",
       "end": "2026-08-03T00:00:00",
@@ -501,6 +501,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MTZUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5ol8he82ujbsvvms99lul074hm",
+      "title": "Deacon Election & Mtg",
+      "category": "other",
+      "start": "2026-08-16T11:00:00-05:00",
+      "end": "2026-08-16T12:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NW9sOGhlODJ1amJzdnZtczk5bHVsMDc0aG0gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20260819T230000Z",
