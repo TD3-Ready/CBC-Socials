@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T14:54:02Z",
-  "count": 350,
+  "updated": "2026-08-26T16:20:34Z",
+  "count": 352,
   "events": [
     {
       "id": "5olbfududavbdjp2baj5nq9g6a",
@@ -2003,6 +2003,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMjhUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "3bldrs5u5hcj6maolb62co7arg",
+      "title": "Lord's Supper",
+      "category": "other",
+      "start": "2027-01-31T00:00:00",
+      "end": "2027-02-01T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2JsZHJzNXU1aGNqNm1hb2xiNjJjbzdhcmcgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270131T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2851,6 +2861,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MjZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5vef4snk4u8sfbna8l3ju3re18",
+      "title": "Lord's Supper",
+      "category": "other",
+      "start": "2027-05-30T00:00:00",
+      "end": "2027-05-31T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NXZlZjRzbms0dThzZmJuYThsM2p1M3JlMTggMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270530T140000Z",
