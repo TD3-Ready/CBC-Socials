@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T00:55:16Z",
-  "count": 348,
+  "updated": "2026-08-29T07:44:22Z",
+  "count": 349,
   "events": [
     {
       "id": "8bgjtcnd1a1jj9gbi2bq39fufo",
@@ -3481,6 +3481,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA4MjVUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "70n0o6see2qave544ljmk4h52e",
+      "title": "Lord's Supper",
+      "category": "other",
+      "start": "2027-08-29T00:00:00",
+      "end": "2027-08-30T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NzBuMG82c2VlMnFhdmU1NDRsam1rNGg1MmUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     }
   ]
 }
