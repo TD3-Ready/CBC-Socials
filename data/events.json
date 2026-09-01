@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T17:13:43Z",
-  "count": 348,
+  "updated": "2026-09-01T19:57:45Z",
+  "count": 349,
   "events": [
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260705T140000Z",
@@ -1031,6 +1031,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEwMThUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "90d7gai9jh0mq768bndrr82dms",
+      "title": "Samuel Lowery\u2019s Ordination",
+      "category": "other",
+      "start": "2026-10-18T17:00:00-05:00",
+      "end": "2026-10-18T18:00:00-05:00",
+      "location": "Southside Baptist Church, 211 King St, Greenville, AL 36037, USA",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=OTBkN2dhaTlqaDBtcTc2OGJuZHJyODJkbXMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20261021T230000Z",
