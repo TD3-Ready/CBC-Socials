@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-01T01:58:48Z",
-  "count": 349,
+  "updated": "2026-09-01T07:41:31Z",
+  "count": 348,
   "events": [
-    {
-      "id": "02qldqaelv096e6cs38pr79mj4",
-      "title": "Church Office Closed",
-      "category": "other",
-      "start": "2026-07-02T00:00:00",
-      "end": "2026-07-03T00:00:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MDJxbGRxYWVsdjA5NmU2Y3MzOHByNzltajQgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260705T140000Z",
       "title": "Sunday School",
