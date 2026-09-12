@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-12T00:31:51Z",
-  "count": 348,
+  "updated": "2026-09-12T05:07:30Z",
+  "count": 347,
   "events": [
-    {
-      "id": "2r62udg2hgftcckmhc9812o4kb",
-      "title": "Children's Camp",
-      "category": "youth",
-      "start": "2026-07-11T00:00:00",
-      "end": "2026-07-14T00:00:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MnI2MnVkZzJoZ2Z0Y2NrbWhjOTgxMm80a2IgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20260715T233000Z",
       "title": "Wednesday Night Church",
