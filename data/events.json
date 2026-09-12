@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T13:01:39Z",
-  "count": 347,
+  "updated": "2026-09-12T16:19:51Z",
+  "count": 349,
   "events": [
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20260715T233000Z",
@@ -3471,6 +3471,26 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA5MDhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20270912T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-09-12T09:00:00-05:00",
+      "end": "2027-09-12T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzA5MTJUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20270912T150000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-09-12T10:00:00-05:00",
+      "end": "2027-09-12T11:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzA5MTJUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     }
   ]
 }
