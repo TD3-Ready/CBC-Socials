@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T12:06:42Z",
-  "count": 349,
+  "updated": "2026-09-20T16:08:37Z",
+  "count": 350,
   "events": [
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20260722T233000Z",
@@ -716,21 +716,31 @@
       "id": "0sqqnkhu95r453pbjtppelfe3r",
       "title": "Homecoming Sweet Tea Outreach",
       "category": "outreach",
-      "start": "2026-10-01T10:00:00-05:00",
-      "end": "2026-10-01T12:00:00-05:00",
+      "start": "2026-10-02T10:00:00-05:00",
+      "end": "2026-10-02T12:00:00-05:00",
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=MHNxcW5raHU5NXI0NTNwYmp0cHBlbGZlM3IgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
-      "id": "41tlduk1hspup06l9brmcinpvc",
-      "title": "Young at Heart (Homecoming)",
-      "category": "other",
-      "start": "2026-10-02T00:00:00",
-      "end": "2026-10-03T00:00:00",
+      "id": "3aqb7p8jcgp4389t79qjpbailr",
+      "title": "Homecoming Sweet Tea Outreach",
+      "category": "outreach",
+      "start": "2026-10-02T10:00:00-05:00",
+      "end": "2026-10-02T12:00:00-05:00",
       "location": "",
       "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NDF0bGR1azFoc3B1cDA2bDlicm1jaW5wdmMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2FxYjdwOGpjZ3A0Mzg5dDc5cWpwYmFpbHIgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "le8g77qo8jrnpcrjc6oj1o7nhc",
+      "title": "Young at Heart",
+      "category": "other",
+      "start": "2026-10-02T10:00:00-05:00",
+      "end": "2026-10-02T12:00:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=bGU4Zzc3cW84anJucGNyamM2b2oxbzduaGMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "0123l2p2ro419f4s48bfb53dtq",
