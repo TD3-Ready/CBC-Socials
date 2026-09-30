@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T16:55:16Z",
-  "count": 355,
+  "updated": "2026-09-30T21:19:23Z",
+  "count": 357,
   "events": [
     {
       "id": "7a105g6fl3ikuvmknb8gbmid6o",
@@ -993,16 +993,6 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=MGRlNWsxaTI2MWJjaHNscnNwYWRta3ZnNGUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
-      "id": "6gjisl019k72mufd95aebs8mm3",
-      "title": "Bibb Baptist Annual Mtg",
-      "category": "other",
-      "start": "2026-11-01T00:00:00",
-      "end": "2026-11-04T00:00:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NmdqaXNsMDE5azcybXVmZDk1YWViczhtbTMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
-    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261101T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1031,6 +1021,36 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=NmFsYjRlNmdpazI2dG4zcHZtZDRvdmtvMHMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "6gjisl019k72mufd95aebs8mm3_20261102T000000Z",
+      "title": "BBA Celebrate 250 Fall Revival",
+      "category": "other",
+      "start": "2026-11-01T18:00:00-06:00",
+      "end": "2026-11-01T20:00:00-06:00",
+      "location": "Four Points Baptist Church, 75 Maple St, Centreville, AL 35042, USA",
+      "description": "Kevin Blackwell Speaking",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmdqaXNsMDE5azcybXVmZDk1YWViczhtbTNfMjAyNjExMDJUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "6gjisl019k72mufd95aebs8mm3_20261103T000000Z",
+      "title": "BBA Celebrate 250 Fall Revival",
+      "category": "other",
+      "start": "2026-11-02T18:00:00-06:00",
+      "end": "2026-11-02T20:00:00-06:00",
+      "location": "Four Points Baptist Church, 75 Maple St, Centreville, AL 35042, USA",
+      "description": "Robert Smith Speaking",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmdqaXNsMDE5azcybXVmZDk1YWViczhtbTNfMjAyNjExMDNUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "6gjisl019k72mufd95aebs8mm3_20261104T000000Z",
+      "title": "BBA Celebrate 250 Fall Revival",
+      "category": "other",
+      "start": "2026-11-03T18:00:00-06:00",
+      "end": "2026-11-03T20:00:00-06:00",
+      "location": "Four Points Baptist Church, 75 Maple St, Centreville, AL 35042, USA",
+      "description": "Tom Richter Speaking",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmdqaXNsMDE5azcybXVmZDk1YWViczhtbTNfMjAyNjExMDRUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20261105T000000Z",
