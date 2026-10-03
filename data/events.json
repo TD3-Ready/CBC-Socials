@@ -1,17 +1,7 @@
 {
-  "updated": "2026-10-03T10:03:51Z",
+  "updated": "2026-10-03T14:44:10Z",
   "count": 353,
   "events": [
-    {
-      "id": "34ih7trgn5trlaffdb8e9aobv9",
-      "title": "BCHS Teacher Fellowship Breakfast",
-      "category": "other",
-      "start": "2026-08-04T07:15:00-05:00",
-      "end": "2026-08-04T08:15:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MzRpaDd0cmduNXRybGFmZmRiOGU5YW9idjkgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20260805T233000Z",
       "title": "Wednesday Night Church",
@@ -3531,6 +3521,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA5MjlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20271003T140000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-10-03T09:00:00-05:00",
+      "end": "2027-10-03T09:45:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzEwMDNUMTQwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     }
   ]
 }
