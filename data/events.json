@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T15:24:53Z",
-  "count": 354,
+  "updated": "2026-10-14T19:37:06Z",
+  "count": 355,
   "events": [
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260816T140000Z",
@@ -981,6 +981,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=NzR1ajFib2YwcDlydmxjZmVncjhsYm9wa2UgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "1tm6ke21couj20h47cs8p515jj",
+      "title": "Office Closed",
+      "category": "other",
+      "start": "2026-11-11T00:00:00",
+      "end": "2026-11-12T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXRtNmtlMjFjb3VqMjBoNDdjczhwNTE1amogMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "3ncdao7oistlfoj78e6eiflgn8",
