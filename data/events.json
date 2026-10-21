@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T15:21:17Z",
-  "count": 352,
+  "updated": "2026-10-21T19:29:31Z",
+  "count": 354,
   "events": [
     {
       "id": "4l8fgrc4rk20ejsg8ohflat69r",
@@ -873,6 +873,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=NHZlMnNibDVzbTBjamE3YnJha3M2ZXRkZzEgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
+      "id": "_752kaea27513aba56t2j6b9k692k6ba271230b9l750k8dhk8kpj2h9m6o",
+      "title": "ALCAP Sunday",
+      "category": "worship",
+      "start": "2026-11-08T00:00:00",
+      "end": "2026-11-09T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Xzc1MmthZWEyNzUxM2FiYTU2dDJqNmI5azY5Mms2YmEyNzEyMzBiOWw3NTBrOGRoazhrcGoyaDltNm8gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261108T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1531,6 +1541,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMjFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5tnpfootcv438d9qarugb5mts5",
+      "title": "Baptist Men's Day",
+      "category": "other",
+      "start": "2027-01-24T00:00:00",
+      "end": "2027-01-25T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NXRucGZvb3RjdjQzOGQ5cWFydWdiNW10czUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270124T150000Z",
