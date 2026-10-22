@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T19:58:17Z",
+  "updated": "2026-10-22T23:13:14Z",
   "count": 350,
   "events": [
     {
@@ -11,16 +11,6 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M3M1MWQ0djNpaDh1cjc2MGJnanIwMDJ0ajMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
-    {
-      "id": "6o99k8mu63il95vlm3eophse26",
-      "title": "Deacon Ordination Council",
-      "category": "other",
-      "start": "2026-08-23T15:00:00-05:00",
-      "end": "2026-08-23T16:00:00-05:00",
-      "location": "Fellowship Hall",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=Nm85OWs4bXU2M2lsOTV2bG0zZW9waHNlMjYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20260826T230000Z",
@@ -921,6 +911,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMTJUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "la63kml15b8c67j106fvs71mlo",
+      "title": "OCC Shoe Box packing",
+      "category": "other",
+      "start": "2026-11-13T00:00:00",
+      "end": "2026-11-16T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=bGE2M2ttbDE1YjhjNjdqMTA2ZnZzNzFtbG8gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261115T150000Z",
