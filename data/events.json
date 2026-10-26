@@ -1,37 +1,7 @@
 {
-  "updated": "2026-10-25T23:57:04Z",
-  "count": 349,
+  "updated": "2026-10-26T04:29:03Z",
+  "count": 346,
   "events": [
-    {
-      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260826T230000Z",
-      "title": "CBCY MidWeek at the HitPit",
-      "category": "other",
-      "start": "2026-08-26T18:00:00-05:00",
-      "end": "2026-08-26T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA4MjZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260826T230000Z",
-      "title": "Kids Night",
-      "category": "youth",
-      "start": "2026-08-26T18:00:00-05:00",
-      "end": "2026-08-26T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA4MjZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "jnrcf45av0rav0le5mdur0tg6h_20260826T233000Z",
-      "title": "Wednesday Night Church",
-      "category": "other",
-      "start": "2026-08-26T18:30:00-05:00",
-      "end": "2026-08-26T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA4MjZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
     {
       "id": "0t8t4g4i3429mih8ru364c7ch6",
       "title": "Feed the Football Team",
