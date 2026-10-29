@@ -1,27 +1,7 @@
 {
-  "updated": "2026-10-29T15:56:21Z",
-  "count": 348,
+  "updated": "2026-10-29T20:59:00Z",
+  "count": 347,
   "events": [
-    {
-      "id": "3fqc1k7affk2e18hcl41gshem3_20260830T150000Z",
-      "title": "Morning Worship",
-      "category": "worship",
-      "start": "2026-08-30T10:00:00-05:00",
-      "end": "2026-08-30T11:00:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjA4MzBUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "367mbumi91lm3ali51nfjumfj8",
-      "title": "Deacon Ordination",
-      "category": "other",
-      "start": "2026-08-30T11:00:00-05:00",
-      "end": "2026-08-30T11:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MzY3bWJ1bWk5MWxtM2FsaTUxbmZqdW1majggMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
     {
       "id": "9cagpu5dbbjbcde7380dqp5ffo",
       "title": "Pastor Search Town Hall",
@@ -1191,6 +1171,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEyMTdUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3rueds05inn1uam5b8tnm33i8v",
+      "title": "FLC/Reserved",
+      "category": "outreach",
+      "start": "2026-12-19T00:00:00",
+      "end": "2026-12-20T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M3J1ZWRzMDVpbm4xdWFtNWI4dG5tMzNpOHYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261220T150000Z",
