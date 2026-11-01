@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T14:56:18Z",
-  "count": 354,
+  "updated": "2026-11-01T19:28:21Z",
+  "count": 355,
   "events": [
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20260902T230000Z",
@@ -1491,6 +1491,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMjRUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "2qsasp4lakaie027djled27eo0",
+      "title": "BCHS Football Banquet",
+      "category": "other",
+      "start": "2027-01-25T17:00:00-06:00",
+      "end": "2027-01-25T20:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MnFzYXNwNGxha2FpZTAyN2RqbGVkMjdlbzAgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20270128T000000Z",
