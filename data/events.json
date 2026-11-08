@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T14:52:59Z",
-  "count": 356,
+  "updated": "2026-11-08T19:25:28Z",
+  "count": 359,
   "events": [
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20260909T230000Z",
@@ -1143,6 +1143,26 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEyMTNUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "5etcmfp5bdpsbgt4g3g0omtdmc",
+      "title": "Christmas Basket packing",
+      "category": "worship",
+      "start": "2026-12-13T11:00:00-06:00",
+      "end": "2026-12-13T12:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWV0Y21mcDViZHBzYmd0NGczZzBvbXRkbWMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "oeed5ckvs2cj7mtr8m19n59ac8",
+      "title": "Candle Light Christmas Service",
+      "category": "worship",
+      "start": "2026-12-13T17:00:00-06:00",
+      "end": "2026-12-13T18:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=b2VlZDVja3ZzMmNqN210cjhtMTluNTlhYzggMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20261217T000000Z",
       "title": "CBCY MidWeek at the HitPit",
       "category": "other",
@@ -1194,7 +1214,7 @@
     },
     {
       "id": "3fqc1k7affk2e18hcl41gshem3_20261220T160000Z",
-      "title": "Morning Worship",
+      "title": "Kids Christmas Worship",
       "category": "worship",
       "start": "2026-12-20T10:00:00-06:00",
       "end": "2026-12-20T11:00:00-06:00",
@@ -1251,6 +1271,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEyMjdUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "q0734n828m59bnsin9bjipc78c",
+      "title": "STS Winter Retreat",
+      "category": "other",
+      "start": "2026-12-28T00:00:00",
+      "end": "2026-12-31T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=cTA3MzRuODI4bTU5Ym5zaW45YmppcGM3OGMgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "3jmvdi10g08k51g8hugu03jsm1",
