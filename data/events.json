@@ -1,37 +1,7 @@
 {
-  "updated": "2026-11-08T23:01:48Z",
-  "count": 359,
+  "updated": "2026-11-09T02:41:00Z",
+  "count": 357,
   "events": [
-    {
-      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260909T230000Z",
-      "title": "CBCY MidWeek at the HitPit",
-      "category": "other",
-      "start": "2026-09-09T18:00:00-05:00",
-      "end": "2026-09-09T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA5MDlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260909T230000Z",
-      "title": "Kids Night",
-      "category": "youth",
-      "start": "2026-09-09T18:00:00-05:00",
-      "end": "2026-09-09T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA5MDlUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "jnrcf45av0rav0le5mdur0tg6h_20260909T233000Z",
-      "title": "Wednesday Night Church",
-      "category": "other",
-      "start": "2026-09-09T18:30:00-05:00",
-      "end": "2026-09-09T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MDlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
     {
       "id": "014lns6qjlksu9hn1f3uq87tru",
       "title": "Reserved OFH",
@@ -806,8 +776,8 @@
       "id": "la63kml15b8c67j106fvs71mlo",
       "title": "OCC Shoe Box packing",
       "category": "other",
-      "start": "2026-11-13T00:00:00",
-      "end": "2026-11-16T00:00:00",
+      "start": "2026-11-14T00:00:00",
+      "end": "2026-11-15T00:00:00",
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=bGE2M2ttbDE1YjhjNjdqMTA2ZnZzNzFtbG8gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
@@ -831,6 +801,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMTVUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "2f3jfd2psrij1ej24kcg1kfmcc",
+      "title": "OCC Shoe Box Packing Fellowship",
+      "category": "other",
+      "start": "2026-11-15T11:00:00-06:00",
+      "end": "2026-11-15T12:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MmYzamZkMnBzcmlqMWVqMjRrY2cxa2ZtY2MgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "57igcj9avi5om9orqvo53rjdp9",
