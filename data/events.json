@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-10T23:56:28Z",
-  "count": 356,
+  "updated": "2026-11-11T05:50:29Z",
+  "count": 358,
   "events": [
-    {
-      "id": "014lns6qjlksu9hn1f3uq87tru",
-      "title": "Reserved OFH",
-      "category": "outreach",
-      "start": "2026-09-10T00:00:00",
-      "end": "2026-09-12T00:00:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MDE0bG5zNnFqbGtzdTlobjFmM3VxODd0cnUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
     {
       "id": "6cppaod0q862k8s63b52hhl5po",
       "title": "Week of Prayer for State Missions and Myers-Mallory State Missions Offering",
@@ -3561,6 +3551,36 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzExMDdUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "1l2opn8ojekaqg8atadp4h3hbm_20271111T000000Z",
+      "title": "CBCY MidWeek at the HitPit",
+      "category": "other",
+      "start": "2027-11-10T18:00:00-06:00",
+      "end": "2027-11-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzExMTFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4dcder8qqou8sji2jcl8cnj9k8_20271111T000000Z",
+      "title": "Kids Night",
+      "category": "youth",
+      "start": "2027-11-10T18:00:00-06:00",
+      "end": "2027-11-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzExMTFUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "jnrcf45av0rav0le5mdur0tg6h_20271111T003000Z",
+      "title": "Wednesday Night Church",
+      "category": "other",
+      "start": "2027-11-10T18:30:00-06:00",
+      "end": "2027-11-10T19:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzExMTFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     }
   ]
 }
