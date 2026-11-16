@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T22:05:46Z",
-  "count": 358,
+  "updated": "2026-11-16T02:10:16Z",
+  "count": 355,
   "events": [
     {
       "id": "6cppaod0q862k8s63b52hhl5po",
@@ -11,36 +11,6 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=NmNwcGFvZDBxODYyazhzNjNiNTJoaGw1cG8gMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
-    {
-      "id": "1l2opn8ojekaqg8atadp4h3hbm_20260916T230000Z",
-      "title": "CBCY MidWeek at the HitPit",
-      "category": "other",
-      "start": "2026-09-16T18:00:00-05:00",
-      "end": "2026-09-16T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNjA5MTZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "4dcder8qqou8sji2jcl8cnj9k8_20260916T230000Z",
-      "title": "Kids Night",
-      "category": "youth",
-      "start": "2026-09-16T18:00:00-05:00",
-      "end": "2026-09-16T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNjA5MTZUMjMwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
-      "id": "jnrcf45av0rav0le5mdur0tg6h_20260916T233000Z",
-      "title": "Wednesday Night Church",
-      "category": "other",
-      "start": "2026-09-16T18:30:00-05:00",
-      "end": "2026-09-16T19:30:00-05:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MTZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260920T140000Z",
@@ -843,14 +813,14 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMjJUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
-      "id": "7vmck9ajknt3f54s2bjqrfh7r8",
-      "title": "Decorate the Church ",
+      "id": "v25e9gub8lohp5cm9mv43avvk0",
+      "title": "Security & Safety Training",
       "category": "other",
-      "start": "2026-11-22T16:00:00-06:00",
-      "end": "2026-11-22T16:30:00-06:00",
+      "start": "2026-11-22T14:00:00-06:00",
+      "end": "2026-11-22T17:00:00-06:00",
       "location": "",
       "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=N3ZtY2s5YWprbnQzZjU0czJianFyZmg3cjggMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+      "htmlLink": "https://www.google.com/calendar/event?eid=djI1ZTlndWI4bG9ocDVjbTltdjQzYXZ2azAgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "4e35rph5kh5l92gbv2l1n1eekg",
