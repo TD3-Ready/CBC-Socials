@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T10:34:51Z",
-  "count": 358,
+  "updated": "2026-11-18T19:05:48Z",
+  "count": 362,
   "events": [
     {
       "id": "6cppaod0q862k8s63b52hhl5po",
@@ -1243,16 +1243,6 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=MWwyb3BuOG9qZWthcWc4YXRhZHA0aDNoYm1fMjAyNzAxMDdUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
-      "id": "4dcder8qqou8sji2jcl8cnj9k8_20270107T000000Z",
-      "title": "Kids Night",
-      "category": "youth",
-      "start": "2027-01-06T18:00:00-06:00",
-      "end": "2027-01-06T19:30:00-06:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=NGRjZGVyOHFxb3U4c2ppMmpjbDhjbmo5azhfMjAyNzAxMDdUMDAwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
-    },
-    {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20270107T003000Z",
       "title": "Wednesday Night Church",
       "category": "other",
@@ -1281,6 +1271,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMTBUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "6bdkuipqr6nnbos86jm9on40ss",
+      "title": "Reserved/OFH",
+      "category": "outreach",
+      "start": "2027-01-11T00:00:00",
+      "end": "2027-01-12T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmJka3VpcHFyNm5uYm9zODZqbTlvbjQwc3MgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20270114T000000Z",
@@ -1313,6 +1313,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMTRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "6jb71f40jhpagn4m6kvldagjo4",
+      "title": "Young at Heart",
+      "category": "other",
+      "start": "2027-01-14T10:30:00-06:00",
+      "end": "2027-01-14T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmpiNzFmNDBqaHBhZ240bTZrdmxkYWdqbzQgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270117T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1331,6 +1341,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMTdUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "4nktq7bst2lqai94v9spgnslpt",
+      "title": "Church Office Closed",
+      "category": "other",
+      "start": "2027-01-18T00:00:00",
+      "end": "2027-01-19T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NG5rdHE3YnN0MmxxYWk5NHY5c3BnbnNscHQgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20270121T000000Z",
@@ -1513,6 +1533,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAyMDdUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "1tfr4va694k9j2tksr2p67gkol",
+      "title": "Deacons Meeting",
+      "category": "other",
+      "start": "2027-02-07T11:00:00-06:00",
+      "end": "2027-02-07T12:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXRmcjR2YTY5NGs5ajJ0a3NyMnA2N2drb2wgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20270211T000000Z",
       "title": "CBCY MidWeek at the HitPit",
       "category": "other",
@@ -1541,6 +1571,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMTFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0r00sc0khak83g5le53mijalf2",
+      "title": "Young at Heart",
+      "category": "other",
+      "start": "2027-02-11T00:00:00",
+      "end": "2027-02-12T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MHIwMHNjMGtoYWs4M2c1bGU1M21pamFsZjIgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270214T150000Z",
@@ -1584,7 +1624,7 @@
     },
     {
       "id": "jnrcf45av0rav0le5mdur0tg6h_20270218T003000Z",
-      "title": "Wednesday Night Church",
+      "title": "Quarterly Business Meeting",
       "category": "other",
       "start": "2027-02-17T18:30:00-06:00",
       "end": "2027-02-17T19:30:00-06:00",
