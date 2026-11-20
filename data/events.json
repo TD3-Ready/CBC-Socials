@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:47:29Z",
+  "updated": "2026-11-20T16:48:38Z",
   "count": 359,
   "events": [
     {
@@ -1383,16 +1383,6 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzAxMjRUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
-      "id": "2qsasp4lakaie027djled27eo0",
-      "title": "BCHS Football Banquet",
-      "category": "other",
-      "start": "2027-01-25T17:00:00-06:00",
-      "end": "2027-01-25T20:00:00-06:00",
-      "location": "",
-      "description": "",
-      "htmlLink": "https://www.google.com/calendar/event?eid=MnFzYXNwNGxha2FpZTAyN2RqbGVkMjdlbzAgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
-    },
-    {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20270128T000000Z",
       "title": "CBCY MidWeek at the HitPit",
       "category": "other",
@@ -1421,6 +1411,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMjhUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "2qsasp4lakaie027djled27eo0",
+      "title": "BCHS Football Banquet",
+      "category": "other",
+      "start": "2027-01-28T17:00:00-06:00",
+      "end": "2027-01-28T20:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MnFzYXNwNGxha2FpZTAyN2RqbGVkMjdlbzAgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "3bldrs5u5hcj6maolb62co7arg",
