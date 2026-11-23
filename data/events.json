@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T09:49:40Z",
-  "count": 358,
+  "updated": "2026-11-23T21:56:16Z",
+  "count": 419,
   "events": [
     {
       "id": "6re9ucda238rv6b2bui7grqo6f",
@@ -61,6 +61,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjA5MzBUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261001T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-09-30T19:30:00-05:00",
+      "end": "2026-09-30T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjEwMDFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "0sqqnkhu95r453pbjtppelfe3r",
@@ -173,6 +183,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMDdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261008T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-10-07T19:30:00-05:00",
+      "end": "2026-10-07T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjEwMDhUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "33trli1rr96a0vd087aeir6pfe",
       "title": "FLC/Reserved",
       "category": "outreach",
@@ -243,6 +263,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMTRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261015T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-10-14T19:30:00-05:00",
+      "end": "2026-10-14T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjEwMTVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261018T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -301,6 +331,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMjFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261022T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-10-21T19:30:00-05:00",
+      "end": "2026-10-21T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjEwMjJUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "4f6us7bf31a2i353o6uk3p1llq",
@@ -371,6 +411,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEwMjhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261029T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-10-28T19:30:00-05:00",
+      "end": "2026-10-28T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjEwMjlUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "443tib95c649br45bi50gp5gjf_20261031T190000Z",
@@ -503,6 +553,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMDVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261105T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-11-04T19:30:00-06:00",
+      "end": "2026-11-04T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjExMDVUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "41vc5d11rm0feg5usu1h9morej",
       "title": "Young at Heart- ",
       "category": "other",
@@ -623,6 +683,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMTJUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261112T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-11-11T19:30:00-06:00",
+      "end": "2026-11-11T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjExMTJUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "lua9mau5t6l23p58utjmi92uus",
       "title": "Gym reserved",
       "category": "outreach",
@@ -723,6 +793,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjExMTlUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261119T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-11-18T19:30:00-06:00",
+      "end": "2026-11-18T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjExMTlUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "407664p3543k2t95ip41u8rhmd",
       "title": "Reserved/Playground",
       "category": "outreach",
@@ -793,6 +873,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=MW1wZ2RlcnMzczkxdjh2ZnV0cXA4dTA5ZHQgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
+      "id": "2unjohp652sec0o49tbeet6qgj",
+      "title": "Reserved/FLC",
+      "category": "outreach",
+      "start": "2026-11-26T00:00:00",
+      "end": "2026-11-27T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MnVuam9ocDY1MnNlYzBvNDl0YmVldDZxZ2ogMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "0ldcv16hrg98oqkcdht8kq2lbh",
       "title": "FLC/Reserved",
       "category": "outreach",
@@ -843,6 +933,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjExMjlUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "2mlefglriv1l29bfu2k9mkmpef",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-11-29T18:00:00-06:00",
+      "end": "2026-11-29T19:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=Mm1sZWZnbHJpdjFsMjliZnUyazlta21wZWYgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20261203T000000Z",
       "title": "CBCY MidWeek at the HitPit",
       "category": "other",
@@ -871,6 +971,26 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEyMDNUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261203T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-12-02T19:30:00-06:00",
+      "end": "2026-12-02T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjEyMDNUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "5redm4vhd4s225k94dkb1lmd0u",
+      "title": "Reserved/FLC",
+      "category": "outreach",
+      "start": "2026-12-05T00:00:00",
+      "end": "2026-12-06T00:00:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NXJlZG00dmhkNHMyMjVrOTRka2IxbG1kMHUgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261206T150000Z",
@@ -911,6 +1031,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=NjZoYnJlcDcwcjEyY2k1Z29paWZvYXB0M2UgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
+    },
+    {
+      "id": "281fiprli1tlecoqt6pcloakb2",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-12-06T18:00:00-06:00",
+      "end": "2026-12-06T19:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjgxZmlwcmxpMXRsZWNvcXQ2cGNsb2FrYjIgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "17e50dn2heq5ptqbfa3l9dveld",
@@ -971,6 +1101,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNjEyMTBUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20261210T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-12-09T19:30:00-06:00",
+      "end": "2026-12-09T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNjEyMTBUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20261213T150000Z",
@@ -1071,6 +1211,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNjEyMjBUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3j66783d1gv0gfrrr0bdt6ujip",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2026-12-20T18:00:00-06:00",
+      "end": "2026-12-20T19:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2o2Njc4M2QxZ3YwZ2ZycnIwYmR0NnVqaXAgMTBlNGE0YzIyYzNmZTY1MTFkZGY1OGRmMWY4MjY1OTE5ZDg4M2I4ZmUzMTFkMTIyNjZjZDU1MDA4OTY1NzUzNUBn"
     },
     {
       "id": "6efhrn8jr4nqp5kd68ad87rrvm",
@@ -1193,6 +1343,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMDdUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270107T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-01-06T19:30:00-06:00",
+      "end": "2027-01-06T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAxMDdUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270110T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1251,6 +1411,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMTRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270114T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-01-13T19:30:00-06:00",
+      "end": "2027-01-13T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAxMTRUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "6jb71f40jhpagn4m6kvldagjo4",
@@ -1323,6 +1493,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMjFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270121T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-01-20T19:30:00-06:00",
+      "end": "2027-01-20T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAxMjFUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "5tnpfootcv438d9qarugb5mts5",
       "title": "Baptist Men's Day",
       "category": "other",
@@ -1381,6 +1561,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAxMjhUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270128T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-01-27T19:30:00-06:00",
+      "end": "2027-01-27T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAxMjhUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "2qsasp4lakaie027djled27eo0",
@@ -1453,6 +1643,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMDRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270204T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-02-03T19:30:00-06:00",
+      "end": "2027-02-03T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAyMDRUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270207T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1511,6 +1711,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMTFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270211T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-02-10T19:30:00-06:00",
+      "end": "2027-02-10T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAyMTFUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "0r00sc0khak83g5le53mijalf2",
@@ -1573,6 +1783,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMThUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270218T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-02-17T19:30:00-06:00",
+      "end": "2027-02-17T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAyMThUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270221T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1621,6 +1841,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAyMjVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270225T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-02-24T19:30:00-06:00",
+      "end": "2027-02-24T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAyMjVUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270228T150000Z",
@@ -1673,6 +1903,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMDRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270304T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-03-03T19:30:00-06:00",
+      "end": "2027-03-03T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAzMDRUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270307T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1721,6 +1961,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMTFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270311T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-03-10T19:30:00-06:00",
+      "end": "2027-03-10T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAzMTFUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270314T140000Z",
@@ -1773,6 +2023,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMTdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270318T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-03-17T19:30:00-05:00",
+      "end": "2027-03-17T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAzMThUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270321T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1821,6 +2081,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMjRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270325T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-03-24T19:30:00-05:00",
+      "end": "2027-03-24T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzAzMjVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270328T140000Z",
@@ -1873,6 +2143,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzAzMzFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270401T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-03-31T19:30:00-05:00",
+      "end": "2027-03-31T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA0MDFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270404T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -1921,6 +2201,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA0MDdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270408T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-04-07T19:30:00-05:00",
+      "end": "2027-04-07T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA0MDhUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270411T140000Z",
@@ -1973,6 +2263,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA0MTRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270415T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-04-14T19:30:00-05:00",
+      "end": "2027-04-14T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA0MTVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270418T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2021,6 +2321,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA0MjFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270422T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-04-21T19:30:00-05:00",
+      "end": "2027-04-21T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA0MjJUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270425T140000Z",
@@ -2073,6 +2383,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA0MjhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270429T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-04-28T19:30:00-05:00",
+      "end": "2027-04-28T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA0MjlUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270502T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2121,6 +2441,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MDVUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270506T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-05-05T19:30:00-05:00",
+      "end": "2027-05-05T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA1MDZUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270509T140000Z",
@@ -2173,6 +2503,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MTJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270513T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-05-12T19:30:00-05:00",
+      "end": "2027-05-12T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA1MTNUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270516T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2221,6 +2561,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MTlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270520T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-05-19T19:30:00-05:00",
+      "end": "2027-05-19T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA1MjBUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "22govkufvd76lh8mpitestq5tl",
@@ -2283,6 +2633,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA1MjZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270527T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-05-26T19:30:00-05:00",
+      "end": "2027-05-26T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA1MjdUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "5vef4snk4u8sfbna8l3ju3re18",
       "title": "Lord's Supper",
       "category": "other",
@@ -2343,6 +2703,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA2MDJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270603T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-06-02T19:30:00-05:00",
+      "end": "2027-06-02T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA2MDNUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270606T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2391,6 +2761,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA2MDlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270610T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-06-09T19:30:00-05:00",
+      "end": "2027-06-09T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA2MTBUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270613T140000Z",
@@ -2443,6 +2823,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA2MTZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270617T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-06-16T19:30:00-05:00",
+      "end": "2027-06-16T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA2MTdUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270620T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2491,6 +2881,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA2MjNUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270624T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-06-23T19:30:00-05:00",
+      "end": "2027-06-23T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA2MjRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270627T140000Z",
@@ -2543,6 +2943,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA2MzBUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270701T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-06-30T19:30:00-05:00",
+      "end": "2027-06-30T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA3MDFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270704T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2591,6 +3001,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA3MDdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270708T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-07-07T19:30:00-05:00",
+      "end": "2027-07-07T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA3MDhUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270711T140000Z",
@@ -2643,6 +3063,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA3MTRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270715T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-07-14T19:30:00-05:00",
+      "end": "2027-07-14T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA3MTVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270718T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2691,6 +3121,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA3MjFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270722T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-07-21T19:30:00-05:00",
+      "end": "2027-07-21T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA3MjJUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270725T140000Z",
@@ -2743,6 +3183,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA3MjhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270729T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-07-28T19:30:00-05:00",
+      "end": "2027-07-28T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA3MjlUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270801T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2791,6 +3241,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA4MDRUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270805T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-08-04T19:30:00-05:00",
+      "end": "2027-08-04T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA4MDVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270808T140000Z",
@@ -2843,6 +3303,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA4MTFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270812T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-08-11T19:30:00-05:00",
+      "end": "2027-08-11T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA4MTJUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270815T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2893,6 +3363,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA4MThUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270819T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-08-18T19:30:00-05:00",
+      "end": "2027-08-18T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA4MTlUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270822T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -2941,6 +3421,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA4MjVUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270826T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-08-25T19:30:00-05:00",
+      "end": "2027-08-25T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA4MjZUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "70n0o6see2qave544ljmk4h52e",
@@ -3003,6 +3493,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA5MDFUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270902T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-09-01T19:30:00-05:00",
+      "end": "2027-09-01T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA5MDJUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270905T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -3051,6 +3551,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA5MDhUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270909T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-09-08T19:30:00-05:00",
+      "end": "2027-09-08T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA5MDlUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270912T140000Z",
@@ -3103,6 +3613,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA5MTVUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270916T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-09-15T19:30:00-05:00",
+      "end": "2027-09-15T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA5MTZUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270919T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -3151,6 +3671,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA5MjJUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270923T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-09-22T19:30:00-05:00",
+      "end": "2027-09-22T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA5MjNUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20270926T140000Z",
@@ -3203,6 +3733,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzA5MjlUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20270930T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-09-29T19:30:00-05:00",
+      "end": "2027-09-29T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzA5MzBUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20271003T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -3251,6 +3791,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzEwMDZUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20271007T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-10-06T19:30:00-05:00",
+      "end": "2027-10-06T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzEwMDdUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20271010T140000Z",
@@ -3303,6 +3853,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzEwMTNUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20271014T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-10-13T19:30:00-05:00",
+      "end": "2027-10-13T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzEwMTRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20271017T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -3353,6 +3913,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzEwMjBUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20271021T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-10-20T19:30:00-05:00",
+      "end": "2027-10-20T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzEwMjFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20271024T140000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -3401,6 +3971,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzEwMjdUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20271028T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-10-27T19:30:00-05:00",
+      "end": "2027-10-27T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzEwMjhUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20271031T140000Z",
@@ -3463,6 +4043,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzExMDNUMjMzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20271104T003000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-11-03T19:30:00-05:00",
+      "end": "2027-11-03T20:30:00-05:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzExMDRUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20271107T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -3513,6 +4103,16 @@
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzExMTFUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20271111T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-11-10T19:30:00-06:00",
+      "end": "2027-11-10T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzExMTFUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20271114T150000Z",
       "title": "Sunday School",
       "category": "worship",
@@ -3561,6 +4161,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzExMThUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20271118T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-11-17T19:30:00-06:00",
+      "end": "2027-11-17T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzExMThUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     },
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20271121T150000Z",
