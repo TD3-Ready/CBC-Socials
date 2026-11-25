@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T01:27:28Z",
-  "count": 421,
+  "updated": "2026-11-25T10:21:24Z",
+  "count": 422,
   "events": [
     {
       "id": "7k9kk07hhn1kieuhp4q2be1129_20260927T140000Z",
@@ -4211,6 +4211,16 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=am5yY2Y0NWF2MHJhdjBsZTVtZHVyMHRnNmhfMjAyNzExMjVUMDAzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "0a4t2p7rfmljkpcv6daqgg7fsc_20271125T013000Z",
+      "title": "Choir Rehearsal",
+      "category": "music",
+      "start": "2027-11-24T19:30:00-06:00",
+      "end": "2027-11-24T20:30:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzExMjVUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     }
   ]
 }
