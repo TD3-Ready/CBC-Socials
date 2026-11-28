@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-28T13:01:01Z",
-  "count": 420,
+  "updated": "2026-11-28T20:56:07Z",
+  "count": 422,
   "events": [
     {
       "id": "1l2opn8ojekaqg8atadp4h3hbm_20260930T230000Z",
@@ -4201,6 +4201,26 @@
       "location": "",
       "description": "",
       "htmlLink": "https://www.google.com/calendar/event?eid=MGE0dDJwN3JmbWxqa3BjdjZkYXFnZzdmc2NfMjAyNzExMjVUMDEzMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "7k9kk07hhn1kieuhp4q2be1129_20271128T150000Z",
+      "title": "Sunday School",
+      "category": "worship",
+      "start": "2027-11-28T09:00:00-06:00",
+      "end": "2027-11-28T09:45:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2s5a2swN2hobjFraWV1aHA0cTJiZTExMjlfMjAyNzExMjhUMTUwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
+    },
+    {
+      "id": "3fqc1k7affk2e18hcl41gshem3_20271128T160000Z",
+      "title": "Morning Worship",
+      "category": "worship",
+      "start": "2027-11-28T10:00:00-06:00",
+      "end": "2027-11-28T11:00:00-06:00",
+      "location": "",
+      "description": "",
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2ZxYzFrN2FmZmsyZTE4aGNsNDFnc2hlbTNfMjAyNzExMjhUMTYwMDAwWiAxMGU0YTRjMjJjM2ZlNjUxMWRkZjU4ZGYxZjgyNjU5MTlkODgzYjhmZTMxMWQxMjI2NmNkNTUwMDg5NjU3NTM1QGc"
     }
   ]
 }
